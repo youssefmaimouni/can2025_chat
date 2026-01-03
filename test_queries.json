@@ -1,0 +1,37 @@
+{
+  "stadiums": [
+    "Give me the list of all stadiums participating in AFCON 2025",
+    "Which stadiums will host matches in Morocco for CAN 2025?",
+    "Where is Adrar Stadium located and what is its capacity?"
+  ],
+
+  "groups": [
+    "Which teams are in Group A of AFCON 2025?",
+    "List all teams in Group B",
+    "Which group does Morocco belong to?"
+  ],
+
+  "players": [
+    "List the players of Morocco participating in AFCON 2025",
+    "Which club does Achraf Hakimi play for?",
+    "Give me the squad of Gabon"
+  ],
+
+  "matches_sql": [
+    "How many goals did Egypt score in AFCON history?",
+    "How many African Cup of Nations matches were played in Angola?",
+    "What was the result of the 2019 AFCON final?"
+  ],
+
+  "hybrid": [
+    "List the players of Group A and the clubs they play for",
+    "Which stadium will host Morocco's first match?",
+    "Who are the coaches of the teams in Group C?"
+  ],
+
+  "general": [
+    "When does AFCON 2025 start?",
+    "Who is hosting the African Cup of Nations 2025?",
+    "How many venues are used in AFCON 2025?"
+  ]
+}

@@ -1,0 +1,165 @@
+(venv) PS C:\Users\HP\OneDrive\Bureau\SBI\caf_app> python .\wikiApiTest.py     
+
+Processing page: 2025_Africa_Cup_of_Nations
+- Section: Host selection
+- Section: Marketing    
+  - Section: Sponsorship
+  - Section: Mascot
+  - Section: Match ball
+- Section: Prize money
+- Section: Qualification
+  - Section: Qualified teams
+- Section: Venues
+- Section: Squads
+- Section: Match officials
+  - Section: Referees
+- Section: Draw
+- Section: Group stage
+  - Section: Tiebreakers
+  - Section: Group A
+  - Section: Group B
+  - Section: Group C
+  - Section: Group D
+  - Section: Group E
+  - Section: Group F
+  - Section: Ranking of third-placed teams
+- Section: Knockout stage
+  - Section: Bracket
+  - Section: Round of 16
+  - Section: Quarter-finals
+  - Section: Semi-finals
+  - Section: Third place play-off
+  - Section: Final
+- Section: Statistics
+  - Section: Goalscorers
+  - Section: Discipline
+  - Section: Man of the match
+- Section: Broadcasting
+- Section: Controversies
+  - Section: Gen Z protests
+- Section: See also
+- Section: References
+- Section: External links
+
+Processing page: 2025_Africa_Cup_of_Nations_squads
+- Section: Group A
+  - Section: Comoros
+  - Section: Mali
+  - Section: Morocco
+  - Section: Zambia
+- Section: Group B
+  - Section: Angola
+  - Section: Egypt
+  - Section: South Africa
+  - Section: Zimbabwe
+- Section: Group C
+  - Section: Nigeria
+  - Section: Tanzania
+  - Section: Tunisia
+  - Section: Uganda
+- Section: Group D
+  - Section: Benin
+  - Section: Botswana
+  - Section: DR Congo
+  - Section: Senegal
+- Section: Group E
+  - Section: Algeria
+  - Section: Burkina Faso
+  - Section: Equatorial Guinea
+  - Section: Sudan
+- Section: Group F
+  - Section: Cameroon
+  - Section: Gabon
+  - Section: Ivory Coast
+  - Section: Mozambique
+- Section: Statistics
+  - Section: Players by League Country
+  - Section: Player representation by club
+  - Section: Player representation by club confederation
+- Section: Notes
+
+Processing page: 2025_Africa_Cup_of_Nations_qualification
+- Section: Entrants
+- Section: Schedule
+- Section: Preliminary round
+- Section: Group stage
+  - Section: Draw
+  - Section: Tiebreakers
+  - Section: Group A
+  - Section: Group B
+  - Section: Group C
+  - Section: Group D
+  - Section: Group E
+  - Section: Group F
+  - Section: Group G
+  - Section: Group H
+  - Section: Group I
+  - Section: Group J
+  - Section: Group K
+  - Section: Group L
+- Section: Goalscorers
+- Section: Qualified teams
+
+Processing page: African_Cup_of_Nations
+- Section: History
+  - Section: 1950s–60s: Origin and early years
+  - Section: 1960s: Ghanaian domination
+  - Section: 1970s: A decade of champions
+  - Section: 1980s: Cameroonian domination
+  - Section: 1990s: The return of South Africa
+  - Section: 2000s: Egypt's unprecedented treble
+  - Section: 2010s: Switch to odd years
+  - Section: Since 2019: Tournament expansion and date change
+  - Section: 2028-: Return to even-numbered years and change in frequency
+- Section: Format
+  - Section: Qualifying
+  - Section: Final phase
+- Section: Trophy and medals
+- Section: Results
+- Section: Summary
+- Section: Records and statistics
+- Section: Awards
+- Section: See also
+- Section: Notes
+- Section: References
+- Section: Further reading
+- Section: External links
+
+Processing page: Morocco_national_football_team
+- Section: History
+  - Section: Formation and early years
+  - Section: First appearances in international competitions (1963–1976)
+  - Section: Between successes and defeats (1976–1986)
+  - Section: Difficult Years (1986–2000)
+  - Section: Golden Generation (2004–present)
+- Section: Home stadiums
+- Section: Kit suppliers
+- Section: Results and fixtures
+  - Section: 2025
+  - Section: 2026
+- Section: Coaching staff
+  - Section: Coaching history
+- Section: Players
+  - Section: Current squad
+  - Section: Recent call-ups
+  - Section: Previous squads
+- Section: Player records
+  - Section: Top goalscorers
+- Section: Competitive record
+  - Section: FIFA World Cup
+  - Section: Africa Cup of Nations
+  - Section: African Nations Championship
+  - Section: Olympic Games
+  - Section: African Games
+  - Section: Mediterranean Games
+  - Section: Arab Games
+  - Section: FIFA Arab Cup
+  - Section: Minor tournaments
+- Section: Head-to-head performance
+- Section: Honours
+  - Section: Summary
+- Section: See also
+  - Section: Other football codes
+- Section: Notes
+- Section: References
+- Section: External links

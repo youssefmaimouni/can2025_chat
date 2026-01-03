@@ -1,0 +1,194 @@
+[
+  {
+    "source": "CAN2025",
+    "type": "Group Composition",
+    "title": "Group A",
+    "content": "Group A teams: Comoros, Mali, Morocco, Zambia"
+  },
+  {
+    "source": "CAN2025",
+    "type": "Group Composition",
+    "title": "Group B",
+    "content": "Group B teams: Angola, Egypt, South Africa, Zimbabwe"
+  },
+  {
+    "source": "CAN2025",
+    "type": "Group Composition",
+    "title": "Group C",
+    "content": "Group C teams: Nigeria, Tanzania, Tunisia, Uganda"
+  },
+  {
+    "source": "CAN2025",
+    "type": "Group Composition",
+    "title": "Group D",
+    "content": "Group D teams: Benin, Botswana, DR Congo, Senegal"
+  },
+  {
+    "source": "CAN2025",
+    "type": "Group Composition",
+    "title": "Group E",
+    "content": "Group E teams: Algeria, Burkina Faso, Equatorial Guinea, Sudan"
+  },
+  {
+    "source": "CAN2025",
+    "type": "Group Composition",
+    "title": "Group F",
+    "content": "Group F teams: Cameroon, Gabon, Ivory Coast, Mozambique"
+  },
+  {
+    "source": "CAN2025",
+    "type": "Stadium",
+    "title": "Adrar Stadium in Agadir",
+    "content": "Stadium: Adrar Stadium in Agadir. Capacity: 45000"
+  },
+  {
+    "source": "CAN2025",
+    "type": "Stadium",
+    "title": "Stade Mohammed V in Casablanca",
+    "content": "Stadium: Stade Mohammed V in Casablanca. Capacity: 45000"
+  },
+  {
+    "source": "CAN2025",
+    "type": "Stadium",
+    "title": "Fez Stadium in Fez",
+    "content": "Stadium: Fez Stadium in Fez. Capacity: 45000"
+  },
+  {
+    "source": "CAN2025",
+    "type": "Stadium",
+    "title": "Marrakesh Stadium in Marrakesh",
+    "content": "Stadium: Marrakesh Stadium in Marrakesh. Capacity: 45000"
+  },
+  {
+    "source": "CAN2025",
+    "type": "Stadium",
+    "title": "Prince Moulay Abdellah Stadium in Rabat",
+    "content": "Stadium: Prince Moulay Abdellah Stadium in Rabat. Capacity: 69500"
+  },
+  {
+    "source": "CAN2025",
+    "type": "Stadium",
+    "title": "Moulay Hassan Stadium in Rabat",
+    "content": "Stadium: Moulay Hassan Stadium in Rabat. Capacity: 22000"
+  },
+  {
+    "source": "CAN2025",
+    "type": "Stadium",
+    "title": "Rabat Olympic Stadium in Rabat",
+    "content": "Stadium: Rabat Olympic Stadium in Rabat. Capacity: 21000"
+  },
+  {
+    "source": "CAN2025",
+    "type": "Stadium",
+    "title": "Al Medina Stadium in Rabat",
+    "content": "Stadium: Al Medina Stadium in Rabat. Capacity: 18000"
+  },
+  {
+    "source": "CAN2025",
+    "type": "Stadium",
+    "title": "Tangier Grand Stadium in Tangier",
+    "content": "Stadium: Tangier Grand Stadium in Tangier. Capacity: 75000"
+  },
+  {
+    "source": "CAN2025",
+    "type": "Match Awards",
+    "title": "Players of the Match - Group A",
+    "content": "Morocco vs Comoros (2–0): Brahim Díaz; Mali vs Zambia (1–1): Lassine Sinayoko; Zambia vs Comoros (0–0): Zaydou Youssouf; Morocco vs Mali (1–1): Neil El Aynaoui; Comoros vs Mali (0–0): Mamadou Sangare; Zambia vs Morocco (0–3): Ayoub El Kaabi"
+  },
+  {
+    "source": "CAN2025",
+    "type": "Match Awards",
+    "title": "Players of the Match - Group B",
+    "content": "South Africa vs Angola (2–1): Lyle Foster; Egypt vs Zimbabwe (2–1): Omar Marmoush; Angola vs Zimbabwe (1–1): Fredy; Egypt vs South Africa (1–0): Mohamed El Shenawy; Zimbabwe vs South Africa (2–3): Oswin Appollis; Angola vs Egypt (0–0): Fredy"
+  },
+  {
+    "source": "CAN2025",
+    "type": "Match Awards",
+    "title": "Players of the Match - Group D",
+    "content": "DR Congo vs Benin (1–0): Théo Bongonda; Senegal vs Botswana (3–0): Nicolas Jackson; Benin vs Botswana (1–0): Yohan Roche; Senegal vs DR Congo (1–1): Sadio Mane; Botswana vs DR Congo (0–3): Gaël Kakuta; Benin vs Senegal (0–3): Abdoulaye Seck"
+  },
+  {
+    "source": "CAN2025",
+    "type": "Match Awards",
+    "title": "Players of the Match - Group C",
+    "content": "Nigeria vs Tanzania (2–1): Semi Ajayi; Tunisia vs Uganda (3–1): Elias Achouri; Uganda vs Tanzania (1–1): Simon Msuva; Nigeria vs Tunisia (3–2): Ademola Lookman; Tanzania vs Tunisia (1–1): Ismaël Gharbi; Uganda vs Nigeria (1–3): Raphael Onyedika"
+  },
+  {
+    "source": "CAN2025",
+    "type": "Match Awards",
+    "title": "Players of the Match - Group E",
+    "content": "Burkina Faso vs Equatorial Guinea (2–1): Edmond Tapsoba; Algeria vs Sudan (3–0): Riyad Mahrez; Equatorial Guinea vs Sudan (0–1): Mohamed Eisa; Algeria vs Burkina Faso (1–0): Ibrahim Maza"
+  },
+  {
+    "source": "CAN2025",
+    "type": "Match Awards",
+    "title": "Players of the Match - Group F",
+    "content": "Ivory Coast vs Mozambique (1–0): Amad Diallo; Cameroon vs Gabon (1–0): Bryan Mbeumo; Gabon vs Mozambique (2–3): Geny Catamo; Ivory Coast vs Cameroon (1–1): Amad Diallo"
+  },
+  {
+    "source": "CAN2025",
+    "type": "Discipline",
+    "title": "Suspension: Basilio Ndong",
+    "content": "Basilio Ndong - Offence: in Group E vs Burkina Faso (matchday 1; 24 December 2025). Suspension: Group E vs Sudan (matchday 2; 28 December 2025)"
+  },
+  {
+    "source": "CAN2025",
+    "type": "Discipline",
+    "title": "Suspension: Salah Adel",
+    "content": "Salah Adel - Offence: in Group E vs Algeria (matchday 1; 24 December 2025). Suspension: Group E vs Equatorial Guinea (matchday 2; 28 December 2025)"
+  },
+  {
+    "source": "CAN2025",
+    "type": "Discipline",
+    "title": "Suspension: Mohamed Hany",
+    "content": "Mohamed Hany - Offence: in Group B vs South Africa (matchday 2; 26 December 2025). Suspension: Group B vs Angola (matchday 3; 29 December 2025)"
+  },
+  {
+    "source": "CAN2025",
+    "type": "Discipline",
+    "title": "Suspension: Aliou Dieng",
+    "content": "Aliou Dieng - Offence: in Group A vs Zambia (matchday 1; 22 December 2025)  in Group A vs Morocco (matchday 2; 26 December 2025). Suspension: Group A vs Comoros (matchday 3; 29 December 2025)"
+  },
+  {
+    "source": "CAN2025",
+    "type": "Discipline",
+    "title": "Suspension: Junior Tchamadeu",
+    "content": "Junior Tchamadeu - Offence: in Group F vs Gabon (matchday 1; 24 December 2025)  in Group F vs Ivory Coast (matchday 2; 28 December 2025). Suspension: Group F vs Mozambique (matchday 3; 31 December 2025)"
+  },
+  {
+    "source": "CAN2025",
+    "type": "Discipline",
+    "title": "Suspension: Kings Kangwa",
+    "content": "Kings Kangwa - Offence: in Group A vs Morocco (matchday 3; 29 December 2025). Suspension: Suspension to be served outside the tournament"
+  },
+  {
+    "source": "CAN2025",
+    "type": "Discipline",
+    "title": "Suspension: Uche Ikpeazu",
+    "content": "Uche Ikpeazu - Offence: in Group C vs Tanzania (matchday 2; 27 December 2025)  in Group C vs Nigeria (matchday 3; 30 December 2025). Suspension: Suspension to be served outside the tournament"
+  },
+  {
+    "source": "CAN2025",
+    "type": "Discipline",
+    "title": "Suspension: Jamal Salim",
+    "content": "Jamal Salim - Offence: in Group C vs Nigeria (matchday 3; 30 December 2025). Suspension: Suspension to be served outside the tournament"
+  },
+  {
+    "source": "CAN2025",
+    "type": "Discipline",
+    "title": "Suspension: Amadou Haidara",
+    "content": "Amadou Haidara - Offence: in Group A vs Comoros (matchday 3; 29 December 2025). Suspension: Round of 16 vs Tunisia (3 January 2026)"
+  },
+  {
+    "source": "CAN2025",
+    "type": "Discipline",
+    "title": "Suspension: Kalidou Koulibaly",
+    "content": "Kalidou Koulibaly - Offence: in Group D vs Benin (matchday 3; 30 December 2025). Suspension: Round of 16 vs 3rd Group E (3 January 2026)"
+  },
+  {
+    "source": "CAN2025",
+    "type": "Discipline",
+    "title": "Suspension: Abdoul Moumini",
+    "content": "Abdoul Moumini - Offence: in Group D vs DR Congo (matchday 1; 23 December 2025)  in Group D vs Senegal (matchday 3; 30 December 2025). Suspension: Round of 16 vs Egypt (5 January 2026)"
+  }
+]

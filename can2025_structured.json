@@ -1,0 +1,4393 @@
+{
+  "groups": {
+    "Group A": [
+      "Comoros",
+      "Mali",
+      "Morocco",
+      "Zambia"
+    ],
+    "Group B": [
+      "Angola",
+      "Egypt",
+      "South Africa",
+      "Zimbabwe"
+    ],
+    "Group C": [
+      "Nigeria",
+      "Tanzania",
+      "Tunisia",
+      "Uganda"
+    ],
+    "Group D": [
+      "Benin",
+      "Botswana",
+      "DR Congo",
+      "Senegal"
+    ],
+    "Group E": [
+      "Algeria",
+      "Burkina Faso",
+      "Equatorial Guinea",
+      "Sudan"
+    ],
+    "Group F": [
+      "Cameroon",
+      "Gabon",
+      "Ivory Coast",
+      "Mozambique"
+    ]
+  },
+  "goalscorers": [],
+  "discipline": [
+    {
+      "Player(s)/Official(s)_Group stage suspensions": "Basilio Ndong",
+      "Offence(s)_Group stage suspensions": "in Group E vs Burkina Faso (matchday 1; 24 December 2025)",
+      "Suspension(s)_Group stage suspensions": "Group E vs Sudan (matchday 2; 28 December 2025)"
+    },
+    {
+      "Player(s)/Official(s)_Group stage suspensions": "Salah Adel",
+      "Offence(s)_Group stage suspensions": "in Group E vs Algeria (matchday 1; 24 December 2025)",
+      "Suspension(s)_Group stage suspensions": "Group E vs Equatorial Guinea (matchday 2; 28 December 2025)"
+    },
+    {
+      "Player(s)/Official(s)_Group stage suspensions": "Mohamed Hany",
+      "Offence(s)_Group stage suspensions": "in Group B vs South Africa (matchday 2; 26 December 2025)",
+      "Suspension(s)_Group stage suspensions": "Group B vs Angola (matchday 3; 29 December 2025)"
+    },
+    {
+      "Player(s)/Official(s)_Group stage suspensions": "Aliou Dieng",
+      "Offence(s)_Group stage suspensions": "in Group A vs Zambia (matchday 1; 22 December 2025)  in Group A vs Morocco (matchday 2; 26 December 2025)",
+      "Suspension(s)_Group stage suspensions": "Group A vs Comoros (matchday 3; 29 December 2025)"
+    },
+    {
+      "Player(s)/Official(s)_Group stage suspensions": "Junior Tchamadeu",
+      "Offence(s)_Group stage suspensions": "in Group F vs Gabon (matchday 1; 24 December 2025)  in Group F vs Ivory Coast (matchday 2; 28 December 2025)",
+      "Suspension(s)_Group stage suspensions": "Group F vs Mozambique (matchday 3; 31 December 2025)"
+    },
+    {
+      "Player(s)/Official(s)_Group stage suspensions": "Kings Kangwa",
+      "Offence(s)_Group stage suspensions": "in Group A vs Morocco (matchday 3; 29 December 2025)",
+      "Suspension(s)_Group stage suspensions": "Suspension to be served outside the tournament"
+    },
+    {
+      "Player(s)/Official(s)_Group stage suspensions": "Uche Ikpeazu",
+      "Offence(s)_Group stage suspensions": "in Group C vs Tanzania (matchday 2; 27 December 2025)  in Group C vs Nigeria (matchday 3; 30 December 2025)",
+      "Suspension(s)_Group stage suspensions": "Suspension to be served outside the tournament"
+    },
+    {
+      "Player(s)/Official(s)_Group stage suspensions": "Jamal Salim",
+      "Offence(s)_Group stage suspensions": "in Group C vs Nigeria (matchday 3; 30 December 2025)",
+      "Suspension(s)_Group stage suspensions": "Suspension to be served outside the tournament"
+    },
+    {
+      "Player(s)/Official(s)_Group stage suspensions": "Knock-out stage suspensions",
+      "Offence(s)_Group stage suspensions": "Knock-out stage suspensions",
+      "Suspension(s)_Group stage suspensions": "Knock-out stage suspensions"
+    },
+    {
+      "Player(s)/Official(s)_Group stage suspensions": "Amadou Haidara",
+      "Offence(s)_Group stage suspensions": "in Group A vs Comoros (matchday 3; 29 December 2025)",
+      "Suspension(s)_Group stage suspensions": "Round of 16 vs Tunisia (3 January 2026)"
+    },
+    {
+      "Player(s)/Official(s)_Group stage suspensions": "Kalidou Koulibaly",
+      "Offence(s)_Group stage suspensions": "in Group D vs Benin (matchday 3; 30 December 2025)",
+      "Suspension(s)_Group stage suspensions": "Round of 16 vs 3rd Group E (3 January 2026)"
+    },
+    {
+      "Player(s)/Official(s)_Group stage suspensions": "Abdoul Moumini",
+      "Offence(s)_Group stage suspensions": "in Group D vs DR Congo (matchday 1; 23 December 2025)  in Group D vs Senegal (matchday 3; 30 December 2025)",
+      "Suspension(s)_Group stage suspensions": "Round of 16 vs Egypt (5 January 2026)"
+    }
+  ],
+  "man_of_the_match": [
+    {
+      "Stage_Group stage matches": "Group A",
+      "Team 1_Group stage matches": "Morocco",
+      "Result_Group stage matches": "2–0",
+      "Team 2_Group stage matches": "Comoros",
+      "Man of the Match_Group stage matches": "Brahim Díaz"
+    },
+    {
+      "Stage_Group stage matches": "Group A",
+      "Team 1_Group stage matches": "Mali",
+      "Result_Group stage matches": "1–1",
+      "Team 2_Group stage matches": "Zambia",
+      "Man of the Match_Group stage matches": "Lassine Sinayoko"
+    },
+    {
+      "Stage_Group stage matches": "Group B",
+      "Team 1_Group stage matches": "South Africa",
+      "Result_Group stage matches": "2–1",
+      "Team 2_Group stage matches": "Angola",
+      "Man of the Match_Group stage matches": "Lyle Foster"
+    },
+    {
+      "Stage_Group stage matches": "Group B",
+      "Team 1_Group stage matches": "Egypt",
+      "Result_Group stage matches": "2–1",
+      "Team 2_Group stage matches": "Zimbabwe",
+      "Man of the Match_Group stage matches": "Omar Marmoush"
+    },
+    {
+      "Stage_Group stage matches": "Group D",
+      "Team 1_Group stage matches": "DR Congo",
+      "Result_Group stage matches": "1–0",
+      "Team 2_Group stage matches": "Benin",
+      "Man of the Match_Group stage matches": "Théo Bongonda"
+    },
+    {
+      "Stage_Group stage matches": "Group D",
+      "Team 1_Group stage matches": "Senegal",
+      "Result_Group stage matches": "3–0",
+      "Team 2_Group stage matches": "Botswana",
+      "Man of the Match_Group stage matches": "Nicolas Jackson"
+    },
+    {
+      "Stage_Group stage matches": "Group C",
+      "Team 1_Group stage matches": "Nigeria",
+      "Result_Group stage matches": "2–1",
+      "Team 2_Group stage matches": "Tanzania",
+      "Man of the Match_Group stage matches": "Semi Ajayi"
+    },
+    {
+      "Stage_Group stage matches": "Group C",
+      "Team 1_Group stage matches": "Tunisia",
+      "Result_Group stage matches": "3–1",
+      "Team 2_Group stage matches": "Uganda",
+      "Man of the Match_Group stage matches": "Elias Achouri"
+    },
+    {
+      "Stage_Group stage matches": "Group E",
+      "Team 1_Group stage matches": "Burkina Faso",
+      "Result_Group stage matches": "2–1",
+      "Team 2_Group stage matches": "Equatorial Guinea",
+      "Man of the Match_Group stage matches": "Edmond Tapsoba"
+    },
+    {
+      "Stage_Group stage matches": "Group E",
+      "Team 1_Group stage matches": "Algeria",
+      "Result_Group stage matches": "3–0",
+      "Team 2_Group stage matches": "Sudan",
+      "Man of the Match_Group stage matches": "Riyad Mahrez"
+    },
+    {
+      "Stage_Group stage matches": "Group F",
+      "Team 1_Group stage matches": "Ivory Coast",
+      "Result_Group stage matches": "1–0",
+      "Team 2_Group stage matches": "Mozambique",
+      "Man of the Match_Group stage matches": "Amad Diallo"
+    },
+    {
+      "Stage_Group stage matches": "Group F",
+      "Team 1_Group stage matches": "Cameroon",
+      "Result_Group stage matches": "1–0",
+      "Team 2_Group stage matches": "Gabon",
+      "Man of the Match_Group stage matches": "Bryan Mbeumo"
+    },
+    {
+      "Stage_Group stage matches": "Group B",
+      "Team 1_Group stage matches": "Angola",
+      "Result_Group stage matches": "1–1",
+      "Team 2_Group stage matches": "Zimbabwe",
+      "Man of the Match_Group stage matches": "Fredy"
+    },
+    {
+      "Stage_Group stage matches": "Group B",
+      "Team 1_Group stage matches": "Egypt",
+      "Result_Group stage matches": "1–0",
+      "Team 2_Group stage matches": "South Africa",
+      "Man of the Match_Group stage matches": "Mohamed El Shenawy"
+    },
+    {
+      "Stage_Group stage matches": "Group A",
+      "Team 1_Group stage matches": "Zambia",
+      "Result_Group stage matches": "0–0",
+      "Team 2_Group stage matches": "Comoros",
+      "Man of the Match_Group stage matches": "Zaydou Youssouf"
+    },
+    {
+      "Stage_Group stage matches": "Group A",
+      "Team 1_Group stage matches": "Morocco",
+      "Result_Group stage matches": "1–1",
+      "Team 2_Group stage matches": "Mali",
+      "Man of the Match_Group stage matches": "Neil El Aynaoui"
+    },
+    {
+      "Stage_Group stage matches": "Group D",
+      "Team 1_Group stage matches": "Benin",
+      "Result_Group stage matches": "1–0",
+      "Team 2_Group stage matches": "Botswana",
+      "Man of the Match_Group stage matches": "Yohan Roche"
+    },
+    {
+      "Stage_Group stage matches": "Group D",
+      "Team 1_Group stage matches": "Senegal",
+      "Result_Group stage matches": "1–1",
+      "Team 2_Group stage matches": "DR Congo",
+      "Man of the Match_Group stage matches": "Sadio Mane"
+    },
+    {
+      "Stage_Group stage matches": "Group C",
+      "Team 1_Group stage matches": "Uganda",
+      "Result_Group stage matches": "1–1",
+      "Team 2_Group stage matches": "Tanzania",
+      "Man of the Match_Group stage matches": "Simon Msuva"
+    },
+    {
+      "Stage_Group stage matches": "Group C",
+      "Team 1_Group stage matches": "Nigeria",
+      "Result_Group stage matches": "3–2",
+      "Team 2_Group stage matches": "Tunisia",
+      "Man of the Match_Group stage matches": "Ademola Lookman"
+    },
+    {
+      "Stage_Group stage matches": "Group F",
+      "Team 1_Group stage matches": "Gabon",
+      "Result_Group stage matches": "2–3",
+      "Team 2_Group stage matches": "Mozambique",
+      "Man of the Match_Group stage matches": "Geny Catamo"
+    },
+    {
+      "Stage_Group stage matches": "Group E",
+      "Team 1_Group stage matches": "Equatorial Guinea",
+      "Result_Group stage matches": "0–1",
+      "Team 2_Group stage matches": "Sudan",
+      "Man of the Match_Group stage matches": "Mohamed Eisa"
+    },
+    {
+      "Stage_Group stage matches": "Group E",
+      "Team 1_Group stage matches": "Algeria",
+      "Result_Group stage matches": "1–0",
+      "Team 2_Group stage matches": "Burkina Faso",
+      "Man of the Match_Group stage matches": "Ibrahim Maza"
+    },
+    {
+      "Stage_Group stage matches": "Group F",
+      "Team 1_Group stage matches": "Ivory Coast",
+      "Result_Group stage matches": "1–1",
+      "Team 2_Group stage matches": "Cameroon",
+      "Man of the Match_Group stage matches": "Amad Diallo"
+    },
+    {
+      "Stage_Group stage matches": "Group B",
+      "Team 1_Group stage matches": "Zimbabwe",
+      "Result_Group stage matches": "2–3",
+      "Team 2_Group stage matches": "South Africa",
+      "Man of the Match_Group stage matches": "Oswin Appollis"
+    },
+    {
+      "Stage_Group stage matches": "Group B",
+      "Team 1_Group stage matches": "Angola",
+      "Result_Group stage matches": "0–0",
+      "Team 2_Group stage matches": "Egypt",
+      "Man of the Match_Group stage matches": "Fredy"
+    },
+    {
+      "Stage_Group stage matches": "Group A",
+      "Team 1_Group stage matches": "Comoros",
+      "Result_Group stage matches": "0–0",
+      "Team 2_Group stage matches": "Mali",
+      "Man of the Match_Group stage matches": "Mamadou Sangare"
+    },
+    {
+      "Stage_Group stage matches": "Group A",
+      "Team 1_Group stage matches": "Zambia",
+      "Result_Group stage matches": "0–3",
+      "Team 2_Group stage matches": "Morocco",
+      "Man of the Match_Group stage matches": "Ayoub El Kaabi"
+    },
+    {
+      "Stage_Group stage matches": "Group C",
+      "Team 1_Group stage matches": "Tanzania",
+      "Result_Group stage matches": "1–1",
+      "Team 2_Group stage matches": "Tunisia",
+      "Man of the Match_Group stage matches": "Ismaël Gharbi"
+    },
+    {
+      "Stage_Group stage matches": "Group C",
+      "Team 1_Group stage matches": "Uganda",
+      "Result_Group stage matches": "1–3",
+      "Team 2_Group stage matches": "Nigeria",
+      "Man of the Match_Group stage matches": "Raphael Onyedika"
+    },
+    {
+      "Stage_Group stage matches": "Group D",
+      "Team 1_Group stage matches": "Botswana",
+      "Result_Group stage matches": "0–3",
+      "Team 2_Group stage matches": "DR Congo",
+      "Man of the Match_Group stage matches": "Gaël Kakuta"
+    },
+    {
+      "Stage_Group stage matches": "Group D",
+      "Team 1_Group stage matches": "Benin",
+      "Result_Group stage matches": "0–3",
+      "Team 2_Group stage matches": "Senegal",
+      "Man of the Match_Group stage matches": "Abdoulaye Seck"
+    },
+    {
+      "Stage_Group stage matches": "Group E",
+      "Team 1_Group stage matches": "Sudan",
+      "Result_Group stage matches": "v",
+      "Team 2_Group stage matches": "Burkina Faso",
+      "Man of the Match_Group stage matches": NaN
+    },
+    {
+      "Stage_Group stage matches": "Group E",
+      "Team 1_Group stage matches": "Equatorial Guinea",
+      "Result_Group stage matches": "v",
+      "Team 2_Group stage matches": "Algeria",
+      "Man of the Match_Group stage matches": NaN
+    },
+    {
+      "Stage_Group stage matches": "Group F",
+      "Team 1_Group stage matches": "Mozambique",
+      "Result_Group stage matches": "v",
+      "Team 2_Group stage matches": "Cameroon",
+      "Man of the Match_Group stage matches": NaN
+    },
+    {
+      "Stage_Group stage matches": "Group F",
+      "Team 1_Group stage matches": "Gabon",
+      "Result_Group stage matches": "v",
+      "Team 2_Group stage matches": "Ivory Coast",
+      "Man of the Match_Group stage matches": NaN
+    },
+    {
+      "Stage_Group stage matches": "Knock-out stage matches",
+      "Team 1_Group stage matches": "Knock-out stage matches",
+      "Result_Group stage matches": "Knock-out stage matches",
+      "Team 2_Group stage matches": "Knock-out stage matches",
+      "Man of the Match_Group stage matches": "Knock-out stage matches"
+    },
+    {
+      "Stage_Group stage matches": "Round of 16",
+      "Team 1_Group stage matches": "Senegal",
+      "Result_Group stage matches": "v",
+      "Team 2_Group stage matches": "3E",
+      "Man of the Match_Group stage matches": NaN
+    },
+    {
+      "Stage_Group stage matches": "Round of 16",
+      "Team 1_Group stage matches": "Mali",
+      "Result_Group stage matches": "v",
+      "Team 2_Group stage matches": "Tunisia",
+      "Man of the Match_Group stage matches": NaN
+    },
+    {
+      "Stage_Group stage matches": "Round of 16",
+      "Team 1_Group stage matches": "Morocco",
+      "Result_Group stage matches": "v",
+      "Team 2_Group stage matches": "Tanzania",
+      "Man of the Match_Group stage matches": NaN
+    },
+    {
+      "Stage_Group stage matches": "Round of 16",
+      "Team 1_Group stage matches": "South Africa",
+      "Result_Group stage matches": "v",
+      "Team 2_Group stage matches": "2F",
+      "Man of the Match_Group stage matches": NaN
+    },
+    {
+      "Stage_Group stage matches": "Round of 16",
+      "Team 1_Group stage matches": "Egypt",
+      "Result_Group stage matches": "v",
+      "Team 2_Group stage matches": "Benin",
+      "Man of the Match_Group stage matches": NaN
+    },
+    {
+      "Stage_Group stage matches": "Round of 16",
+      "Team 1_Group stage matches": "Nigeria",
+      "Result_Group stage matches": "v",
+      "Team 2_Group stage matches": "3F",
+      "Man of the Match_Group stage matches": NaN
+    },
+    {
+      "Stage_Group stage matches": "Round of 16",
+      "Team 1_Group stage matches": "Algeria",
+      "Result_Group stage matches": "v",
+      "Team 2_Group stage matches": "DR Congo",
+      "Man of the Match_Group stage matches": NaN
+    },
+    {
+      "Stage_Group stage matches": "Round of 16",
+      "Team 1_Group stage matches": "1F",
+      "Result_Group stage matches": "v",
+      "Team 2_Group stage matches": "2E",
+      "Man of the Match_Group stage matches": NaN
+    },
+    {
+      "Stage_Group stage matches": "Quarter-finals",
+      "Team 1_Group stage matches": "W38",
+      "Result_Group stage matches": "v",
+      "Team 2_Group stage matches": "W37",
+      "Man of the Match_Group stage matches": NaN
+    },
+    {
+      "Stage_Group stage matches": "Quarter-finals",
+      "Team 1_Group stage matches": "W40",
+      "Result_Group stage matches": "v",
+      "Team 2_Group stage matches": "W39",
+      "Man of the Match_Group stage matches": NaN
+    },
+    {
+      "Stage_Group stage matches": "Quarter-finals",
+      "Team 1_Group stage matches": "W43",
+      "Result_Group stage matches": "v",
+      "Team 2_Group stage matches": "W42",
+      "Man of the Match_Group stage matches": NaN
+    },
+    {
+      "Stage_Group stage matches": "Quarter-finals",
+      "Team 1_Group stage matches": "W41",
+      "Result_Group stage matches": "v",
+      "Team 2_Group stage matches": "W44",
+      "Man of the Match_Group stage matches": NaN
+    },
+    {
+      "Stage_Group stage matches": "Semi-finals",
+      "Team 1_Group stage matches": "W45",
+      "Result_Group stage matches": "v",
+      "Team 2_Group stage matches": "W48",
+      "Man of the Match_Group stage matches": NaN
+    },
+    {
+      "Stage_Group stage matches": "Semi-finals",
+      "Team 1_Group stage matches": "W47",
+      "Result_Group stage matches": "v",
+      "Team 2_Group stage matches": "W46",
+      "Man of the Match_Group stage matches": NaN
+    },
+    {
+      "Stage_Group stage matches": "Third place play-off",
+      "Team 1_Group stage matches": "L49",
+      "Result_Group stage matches": "v",
+      "Team 2_Group stage matches": "L50",
+      "Man of the Match_Group stage matches": NaN
+    },
+    {
+      "Stage_Group stage matches": "Final",
+      "Team 1_Group stage matches": "W49",
+      "Result_Group stage matches": "v",
+      "Team 2_Group stage matches": "W50",
+      "Man of the Match_Group stage matches": NaN
+    }
+  ],
+  "squads": {
+    "Group A": {
+      "Comoros": {
+        "coach": "Stefano Cusin",
+        "players": [
+          {
+            "name": "Salim Ben Boina",
+            "position": "GK",
+            "club": "Istres"
+          },
+          {
+            "name": "Ismaël Boura",
+            "position": "DF",
+            "club": "Troyes"
+          },
+          {
+            "name": "Abdel-Hakim Abdallah",
+            "position": "DF",
+            "club": "Guingamp"
+          },
+          {
+            "name": "Kenan Toibibou",
+            "position": "DF",
+            "club": "Bravo"
+          },
+          {
+            "name": "Ahmed Soilihi",
+            "position": "DF",
+            "club": "Toulon"
+          },
+          {
+            "name": "Iyad Mohamed",
+            "position": "MF",
+            "club": "Casa Pia"
+          },
+          {
+            "name": "Faïz Selemani",
+            "position": "FW",
+            "club": "Qatar SC"
+          },
+          {
+            "name": "Yannis Kari",
+            "position": "DF",
+            "club": "Fréjus Saint-Raphaël"
+          },
+          {
+            "name": "Aboubacar Ali",
+            "position": "FW",
+            "club": "Francs Borains"
+          },
+          {
+            "name": "Youssouf M'Changama",
+            "position": "MF",
+            "club": "Al-Batin"
+          },
+          {
+            "name": "Rafiki Saïd",
+            "position": "FW",
+            "club": "Standard Liège"
+          },
+          {
+            "name": "Kassim M'Dahoma",
+            "position": "DF",
+            "club": "Aubagne"
+          },
+          {
+            "name": "Aymeric Ahmed",
+            "position": "FW",
+            "club": "Strasbourg"
+          },
+          {
+            "name": "Rémy Vita",
+            "position": "MF",
+            "club": "Tondela"
+          },
+          {
+            "name": "Benjaloud Youssouf",
+            "position": "MF",
+            "club": "Sochaux"
+          },
+          {
+            "name": "Yannick Pandor",
+            "position": "GK",
+            "club": "Francs Borains"
+          },
+          {
+            "name": "Myziane Maolida",
+            "position": "FW",
+            "club": "Al-Kholood"
+          },
+          {
+            "name": "Yacine Bourhane",
+            "position": "MF",
+            "club": "Aris Limassol"
+          },
+          {
+            "name": "Zaïd Amir",
+            "position": "FW",
+            "club": "Istres"
+          },
+          {
+            "name": "El Fardou Ben Nabouhane",
+            "position": "FW",
+            "club": "Zemun"
+          },
+          {
+            "name": "Saïd Bakari",
+            "position": "DF",
+            "club": "Sparta Rotterdam"
+          },
+          {
+            "name": "Adel Anzimati",
+            "position": "GK",
+            "club": "Ararat Yerevan"
+          },
+          {
+            "name": "Idris Mohamed",
+            "position": "DF",
+            "club": "Le Puy"
+          },
+          {
+            "name": "Raouf Mroivili",
+            "position": "MF",
+            "club": "Villefranche"
+          },
+          {
+            "name": "Rayan Lutin",
+            "position": "MF",
+            "club": "Amiens"
+          },
+          {
+            "name": "Zaydou Youssouf",
+            "position": "MF",
+            "club": "Al-Fateh"
+          }
+        ]
+      },
+      "Mali": {
+        "coach": "Tom Saintfiet",
+        "players": [
+          {
+            "name": "Ismael Diawara",
+            "position": "GK",
+            "club": "Sirius"
+          },
+          {
+            "name": "Hamari Traoré",
+            "position": "DF",
+            "club": "Paris FC"
+          },
+          {
+            "name": "Amadou Dante",
+            "position": "DF",
+            "club": "Arouca"
+          },
+          {
+            "name": "Amadou Haidara",
+            "position": "MF",
+            "club": "RB Leipzig"
+          },
+          {
+            "name": "Abdoulaye Diaby",
+            "position": "DF",
+            "club": "Grasshopper"
+          },
+          {
+            "name": "Sikou Niakaté",
+            "position": "DF",
+            "club": "Braga"
+          },
+          {
+            "name": "Dorgeles Nene",
+            "position": "FW",
+            "club": "Fenerbahçe"
+          },
+          {
+            "name": "Mahamadou Doumbia",
+            "position": "MF",
+            "club": "Al-Ittihad"
+          },
+          {
+            "name": "El Bilal Touré",
+            "position": "FW",
+            "club": "Beşiktaş"
+          },
+          {
+            "name": "Yves Bissouma",
+            "position": "MF",
+            "club": "Tottenham Hotspur"
+          },
+          {
+            "name": "Lassana Coulibaly",
+            "position": "MF",
+            "club": "Lecce"
+          },
+          {
+            "name": "Mohamed Camara",
+            "position": "MF",
+            "club": "Al-Sadd"
+          },
+          {
+            "name": "Fodé Doucouré",
+            "position": "DF",
+            "club": "Le Havre"
+          },
+          {
+            "name": "Mamadou Camara",
+            "position": "FW",
+            "club": "Laval"
+          },
+          {
+            "name": "Mamadou Fofana",
+            "position": "DF",
+            "club": "New England Revolution"
+          },
+          {
+            "name": "Djigui Diarra",
+            "position": "GK",
+            "club": "Young Africans"
+          },
+          {
+            "name": "Lassine Sinayoko",
+            "position": "FW",
+            "club": "Auxerre"
+          },
+          {
+            "name": "Mamadou Doumbia",
+            "position": "FW",
+            "club": "Watford"
+          },
+          {
+            "name": "Kamory Doumbia",
+            "position": "MF",
+            "club": "Brest"
+          },
+          {
+            "name": "Mamadou Sangaré",
+            "position": "MF",
+            "club": "Lens"
+          },
+          {
+            "name": "Gaoussou Diarra",
+            "position": "FW",
+            "club": "Feyenoord"
+          },
+          {
+            "name": "Mamadou Samassa",
+            "position": "GK",
+            "club": "Laval"
+          },
+          {
+            "name": "Aliou Dieng",
+            "position": "MF",
+            "club": "Al Ahly"
+          },
+          {
+            "name": "Ibrahima Sissoko",
+            "position": "MF",
+            "club": "VfL Bochum"
+          },
+          {
+            "name": "Ousmane Camara",
+            "position": "DF",
+            "club": "Angers"
+          },
+          {
+            "name": "Woyo Coulibaly",
+            "position": "DF",
+            "club": "Sassuolo"
+          },
+          {
+            "name": "Gaoussou Diakité",
+            "position": "FW",
+            "club": "Lausanne-Sport"
+          },
+          {
+            "name": "Nathan Gassama",
+            "position": "DF",
+            "club": "Baltika Kaliningrad"
+          }
+        ]
+      },
+      "Morocco": {
+        "coach": "Walid Regragui",
+        "players": [
+          {
+            "name": "Yassine Bounou",
+            "position": "GK",
+            "club": "Al-Hilal"
+          },
+          {
+            "name": "Achraf Hakimi",
+            "position": "DF",
+            "club": "Paris Saint-Germain"
+          },
+          {
+            "name": "Noussair Mazraoui",
+            "position": "DF",
+            "club": "Manchester United"
+          },
+          {
+            "name": "Sofyan Amrabat",
+            "position": "MF",
+            "club": "Real Betis"
+          },
+          {
+            "name": "Nayef Aguerd",
+            "position": "DF",
+            "club": "Marseille"
+          },
+          {
+            "name": "Romain Saïss",
+            "position": "DF",
+            "club": "Al-Sadd"
+          },
+          {
+            "name": "Hamza Igamane",
+            "position": "FW",
+            "club": "Lille"
+          },
+          {
+            "name": "Azzedine Ounahi",
+            "position": "MF",
+            "club": "Girona"
+          },
+          {
+            "name": "Soufiane Rahimi",
+            "position": "FW",
+            "club": "Al-Ain"
+          },
+          {
+            "name": "Brahim Díaz",
+            "position": "FW",
+            "club": "Real Madrid"
+          },
+          {
+            "name": "Ismael Saibari",
+            "position": "MF",
+            "club": "PSV Eindhoven"
+          },
+          {
+            "name": "Munir Mohamedi",
+            "position": "GK",
+            "club": "RS Berkane"
+          },
+          {
+            "name": "Eliesse Ben Seghir",
+            "position": "MF",
+            "club": "Bayer Leverkusen"
+          },
+          {
+            "name": "Oussama Targhalline",
+            "position": "MF",
+            "club": "Feyenoord"
+          },
+          {
+            "name": "Mohamed Chibi",
+            "position": "DF",
+            "club": "Pyramids"
+          },
+          {
+            "name": "Ilias Akhomach",
+            "position": "FW",
+            "club": "Villarreal"
+          },
+          {
+            "name": "Abde Ezzalzouli",
+            "position": "FW",
+            "club": "Real Betis"
+          },
+          {
+            "name": "Jawad El Yamiq",
+            "position": "DF",
+            "club": "Al-Najma"
+          },
+          {
+            "name": "Youssef En-Nesyri",
+            "position": "FW",
+            "club": "Fenerbahçe"
+          },
+          {
+            "name": "Ayoub El Kaabi",
+            "position": "FW",
+            "club": "Olympiacos"
+          },
+          {
+            "name": "Chemsdine Talbi",
+            "position": "FW",
+            "club": "Sunderland"
+          },
+          {
+            "name": "El Mehdi Al Harrar",
+            "position": "GK",
+            "club": "Raja CA"
+          },
+          {
+            "name": "Bilal El Khannouss",
+            "position": "MF",
+            "club": "VfB Stuttgart"
+          },
+          {
+            "name": "Neil El Aynaoui",
+            "position": "MF",
+            "club": "Roma"
+          },
+          {
+            "name": "Adam Masina",
+            "position": "DF",
+            "club": "Torino"
+          },
+          {
+            "name": "Anass Salah-Eddine",
+            "position": "DF",
+            "club": "PSV Eindhoven"
+          },
+          {
+            "name": "Abdelhamid Aït Boudlal",
+            "position": "DF",
+            "club": "Rennes"
+          },
+          {
+            "name": "Youssef Belammari",
+            "position": "DF",
+            "club": "Raja CA"
+          }
+        ]
+      },
+      "Zambia": {
+        "coach": "Moses Sichone",
+        "players": [
+          {
+            "name": "Willard Mwanza",
+            "position": "GK",
+            "club": "Power Dynamos"
+          },
+          {
+            "name": "Mathews Banda",
+            "position": "DF",
+            "club": "Nkana"
+          },
+          {
+            "name": "Obino Chisala",
+            "position": "DF",
+            "club": "Al-Merrikh"
+          },
+          {
+            "name": "Frankie Musonda",
+            "position": "DF",
+            "club": "Bahrain SC"
+          },
+          {
+            "name": "Miguel Chaiwa",
+            "position": "MF",
+            "club": "Hibernian"
+          },
+          {
+            "name": "Benson Sakala",
+            "position": "DF",
+            "club": "Bohemians 1905"
+          },
+          {
+            "name": "Jack Lahne",
+            "position": "FW",
+            "club": "Austria Lustenau"
+          },
+          {
+            "name": "Lubambo Musonda",
+            "position": "MF",
+            "club": "Magdeburg"
+          },
+          {
+            "name": "Lameck Banda",
+            "position": "FW",
+            "club": "Lecce"
+          },
+          {
+            "name": "Fashion Sakala",
+            "position": "FW",
+            "club": "Al-Fayha"
+          },
+          {
+            "name": "Joseph Sabobo",
+            "position": "MF",
+            "club": "Hapoel Be'er Sheva"
+          },
+          {
+            "name": "Wilson Chisala",
+            "position": "MF",
+            "club": "Zanaco"
+          },
+          {
+            "name": "Stoppila Sunzu",
+            "position": "DF",
+            "club": "Changchun Yatai"
+          },
+          {
+            "name": "Kabaso Chongo",
+            "position": "DF",
+            "club": "ZESCO United"
+          },
+          {
+            "name": "Given Kalusa",
+            "position": "MF",
+            "club": "MUZA"
+          },
+          {
+            "name": "Lawrence Mulenga",
+            "position": "GK",
+            "club": "Power Dynamos"
+          },
+          {
+            "name": "Kings Kangwa",
+            "position": "MF",
+            "club": "Hapoel Be'er Sheva"
+          },
+          {
+            "name": "Francis Mwansa",
+            "position": "GK",
+            "club": "Zanaco"
+          },
+          {
+            "name": "Kennedy Musonda",
+            "position": "FW",
+            "club": "Hapoel Ramat Gan"
+          },
+          {
+            "name": "Patson Daka",
+            "position": "FW",
+            "club": "Leicester City"
+          },
+          {
+            "name": "Dominic Chanda",
+            "position": "DF",
+            "club": "Power Dynamos"
+          },
+          {
+            "name": "David Hamansenya",
+            "position": "DF",
+            "club": "Leganés"
+          },
+          {
+            "name": "Pascal Phiri",
+            "position": "MF",
+            "club": "ZESCO United"
+          },
+          {
+            "name": "Gift Mphande",
+            "position": "DF",
+            "club": "ZESCO United"
+          },
+          {
+            "name": "Owen Tembo",
+            "position": "MF",
+            "club": "Power Dynamos"
+          },
+          {
+            "name": "Joseph Liteta",
+            "position": "MF",
+            "club": "Cagliari"
+          },
+          {
+            "name": "Elia Mandanji",
+            "position": "FW",
+            "club": "Zanaco"
+          },
+          {
+            "name": "David Simukonda",
+            "position": "MF",
+            "club": "ZESCO United"
+          }
+        ]
+      }
+    },
+    "Group B": {
+      "Angola": {
+        "coach": "Patrice Beaumelle",
+        "players": [
+          {
+            "name": "Hugo Marques",
+            "position": "GK",
+            "club": "Petro de Luanda"
+          },
+          {
+            "name": "Núrio Fortuna",
+            "position": "DF",
+            "club": "Volos"
+          },
+          {
+            "name": "Jonathan Buatu",
+            "position": "DF",
+            "club": "Gil Vicente"
+          },
+          {
+            "name": "Clinton Mata",
+            "position": "DF",
+            "club": "Lyon"
+          },
+          {
+            "name": "David Carmo",
+            "position": "DF",
+            "club": "Real Oviedo"
+          },
+          {
+            "name": "Kialonda Gaspar",
+            "position": "DF",
+            "club": "Lecce"
+          },
+          {
+            "name": "Felício Milson",
+            "position": "FW",
+            "club": "Red Star Belgrade"
+          },
+          {
+            "name": "Maestro",
+            "position": "MF",
+            "club": "Alanyaspor"
+          },
+          {
+            "name": "M'Bala Nzola",
+            "position": "FW",
+            "club": "Pisa"
+          },
+          {
+            "name": "Gelson Dala",
+            "position": "FW",
+            "club": "Al-Wakrah"
+          },
+          {
+            "name": "Ary Papel",
+            "position": "FW",
+            "club": "Al-Akhdar"
+          },
+          {
+            "name": "Antonio Dominique",
+            "position": "GK",
+            "club": "Étoile Carouge"
+          },
+          {
+            "name": "Tó Carneiro",
+            "position": "DF",
+            "club": "AS FAR"
+          },
+          {
+            "name": "Manuel Benson",
+            "position": "FW",
+            "club": "Swansea City"
+          },
+          {
+            "name": "Beni Mukendi",
+            "position": "MF",
+            "club": "Vitória de Guimarães"
+          },
+          {
+            "name": "Fredy",
+            "position": "MF",
+            "club": "Bodrum"
+          },
+          {
+            "name": "Randy Nteka",
+            "position": "MF",
+            "club": "Rayo Vallecano"
+          },
+          {
+            "name": "Zito Luvumbo",
+            "position": "FW",
+            "club": "Cagliari"
+          },
+          {
+            "name": "Mabululu",
+            "position": "FW",
+            "club": "Al-Ahli Tripoli"
+          },
+          {
+            "name": "Manuel Keliano",
+            "position": "MF",
+            "club": "Akhmat Grozny"
+          },
+          {
+            "name": "Eddie Afonso",
+            "position": "DF",
+            "club": "Petro de Luanda"
+          },
+          {
+            "name": "Neblú",
+            "position": "GK",
+            "club": "1° de Agosto"
+          },
+          {
+            "name": "Show",
+            "position": "MF",
+            "club": "Kocaelispor"
+          },
+          {
+            "name": "Mário Balbúrdia",
+            "position": "MF",
+            "club": "Boluspor"
+          },
+          {
+            "name": "Rui Modesto",
+            "position": "DF",
+            "club": "Udinese"
+          },
+          {
+            "name": "Agostinho Calunga",
+            "position": "GK",
+            "club": "Wiliete"
+          },
+          {
+            "name": "Chico Banza",
+            "position": "FW",
+            "club": "Zamalek"
+          },
+          {
+            "name": "Pedro Bondo",
+            "position": "DF",
+            "club": "Famalicão"
+          }
+        ]
+      },
+      "Egypt": {
+        "coach": "Hossam Hassan",
+        "players": [
+          {
+            "name": "Ahmed El Shenawy",
+            "position": "GK",
+            "club": "Pyramids"
+          },
+          {
+            "name": "Khaled Sobhi",
+            "position": "DF",
+            "club": "Al Masry"
+          },
+          {
+            "name": "Mohamed Hany",
+            "position": "DF",
+            "club": "Al Ahly"
+          },
+          {
+            "name": "Hossam Abdelmaguid",
+            "position": "DF",
+            "club": "Zamalek"
+          },
+          {
+            "name": "Ramy Rabia",
+            "position": "DF",
+            "club": "Al-Ain"
+          },
+          {
+            "name": "Yasser Ibrahim",
+            "position": "DF",
+            "club": "Al Ahly"
+          },
+          {
+            "name": "Trézéguet",
+            "position": "FW",
+            "club": "Al Ahly"
+          },
+          {
+            "name": "Emam Ashour",
+            "position": "MF",
+            "club": "Al Ahly"
+          },
+          {
+            "name": "Salah Mohsen",
+            "position": "FW",
+            "club": "Al Masry"
+          },
+          {
+            "name": "Mohamed Salah",
+            "position": "FW",
+            "club": "Liverpool"
+          },
+          {
+            "name": "Mostafa Mohamed",
+            "position": "FW",
+            "club": "Nantes"
+          },
+          {
+            "name": "Mohamed Hamdy",
+            "position": "DF",
+            "club": "Pyramids"
+          },
+          {
+            "name": "Ahmed Abou El Fotouh",
+            "position": "DF",
+            "club": "Zamalek"
+          },
+          {
+            "name": "Hamdy Fathy",
+            "position": "MF",
+            "club": "Al-Wakrah"
+          },
+          {
+            "name": "Mohamed Shehata",
+            "position": "MF",
+            "club": "Zamalek"
+          },
+          {
+            "name": "Mohamed Sobhy",
+            "position": "GK",
+            "club": "Zamalek"
+          },
+          {
+            "name": "Mohanad Lasheen",
+            "position": "MF",
+            "club": "Pyramids"
+          },
+          {
+            "name": "Mostafa Fathi",
+            "position": "FW",
+            "club": "Pyramids"
+          },
+          {
+            "name": "Marwan Attia",
+            "position": "MF",
+            "club": "Al Ahly"
+          },
+          {
+            "name": "Ibrahim Adel",
+            "position": "FW",
+            "club": "Al-Jazira"
+          },
+          {
+            "name": "Osama Faisal",
+            "position": "FW",
+            "club": "National Bank of Egypt"
+          },
+          {
+            "name": "Omar Marmoush",
+            "position": "FW",
+            "club": "Manchester City"
+          },
+          {
+            "name": "Mohamed El Shenawy",
+            "position": "GK",
+            "club": "Al Ahly"
+          },
+          {
+            "name": "Ahmed Eid",
+            "position": "DF",
+            "club": "Al Masry"
+          },
+          {
+            "name": "Zizo",
+            "position": "MF",
+            "club": "Al Ahly"
+          },
+          {
+            "name": "Mostafa Shobeir",
+            "position": "GK",
+            "club": "Al Ahly"
+          },
+          {
+            "name": "Mahmoud Saber",
+            "position": "MF",
+            "club": "ZED"
+          },
+          {
+            "name": "Mohamed Ismail",
+            "position": "DF",
+            "club": "Zamalek"
+          }
+        ]
+      },
+      "South Africa": {
+        "coach": "Hugo Broos",
+        "players": [
+          {
+            "name": "Ronwen Williams",
+            "position": "GK",
+            "club": "Mamelodi Sundowns"
+          },
+          {
+            "name": "Tylon Smith",
+            "position": "DF",
+            "club": "Queens Park Rangers"
+          },
+          {
+            "name": "Khulumani Ndamane",
+            "position": "DF",
+            "club": "TS Galaxy"
+          },
+          {
+            "name": "Teboho Mokoena",
+            "position": "MF",
+            "club": "Mamelodi Sundowns"
+          },
+          {
+            "name": "Thalente Mbatha",
+            "position": "MF",
+            "club": "Orlando Pirates"
+          },
+          {
+            "name": "Aubrey Modiba",
+            "position": "DF",
+            "club": "Mamelodi Sundowns"
+          },
+          {
+            "name": "Oswin Appollis",
+            "position": "FW",
+            "club": "Orlando Pirates"
+          },
+          {
+            "name": "Tshepang Moremi",
+            "position": "FW",
+            "club": "Orlando Pirates"
+          },
+          {
+            "name": "Lyle Foster",
+            "position": "FW",
+            "club": "Burnley"
+          },
+          {
+            "name": "Relebohile Mofokeng",
+            "position": "FW",
+            "club": "Orlando Pirates"
+          },
+          {
+            "name": "Mohau Nkota",
+            "position": "FW",
+            "club": "Al-Ettifaq"
+          },
+          {
+            "name": "Elias Mokwana",
+            "position": "FW",
+            "club": "Al-Hazem"
+          },
+          {
+            "name": "Sphephelo Sithole",
+            "position": "MF",
+            "club": "Tondela"
+          },
+          {
+            "name": "Mbekezeli Mbokazi",
+            "position": "DF",
+            "club": "Orlando Pirates"
+          },
+          {
+            "name": "Bathusi Aubaas",
+            "position": "MF",
+            "club": "Mamelodi Sundowns"
+          },
+          {
+            "name": "Sipho Chaine",
+            "position": "GK",
+            "club": "Orlando Pirates"
+          },
+          {
+            "name": "Sipho Mbule",
+            "position": "MF",
+            "club": "Orlando Pirates"
+          },
+          {
+            "name": "Samukele Kabini",
+            "position": "DF",
+            "club": "Molde"
+          },
+          {
+            "name": "Nkosinathi Sibisi",
+            "position": "DF",
+            "club": "Orlando Pirates"
+          },
+          {
+            "name": "Khuliso Mudau",
+            "position": "DF",
+            "club": "Mamelodi Sundowns"
+          },
+          {
+            "name": "Siyabonga Ngezana",
+            "position": "DF",
+            "club": "FCSB"
+          },
+          {
+            "name": "Ricardo Goss",
+            "position": "GK",
+            "club": "Siwelele"
+          },
+          {
+            "name": "Evidence Makgopa",
+            "position": "FW",
+            "club": "Orlando Pirates"
+          },
+          {
+            "name": "Shandre Campbell",
+            "position": "FW",
+            "club": "Club Brugge"
+          },
+          {
+            "name": "Thabang Matuludi",
+            "position": "DF",
+            "club": "Polokwane City"
+          },
+          {
+            "name": "Mduduzi Shabalala*",
+            "position": "MF",
+            "club": "Kaizer Chiefs"
+          },
+          {
+            "name": "Iqraam Rayners*",
+            "position": "FW",
+            "club": "Mamelodi Sundowns"
+          },
+          {
+            "name": "Thabo Moloisane*",
+            "position": "DF",
+            "club": "Stellenbosch"
+          }
+        ]
+      },
+      "Zimbabwe": {
+        "coach": "Mario Marinică",
+        "players": [
+          {
+            "name": "Elvis Chipezeze",
+            "position": "GK",
+            "club": "Magesi"
+          },
+          {
+            "name": "Gerald Takwara",
+            "position": "DF",
+            "club": "Al-Ittihad Misurata"
+          },
+          {
+            "name": "Sean Fusire",
+            "position": "DF",
+            "club": "Sheffield Wednesday"
+          },
+          {
+            "name": "Munashe Garananga",
+            "position": "DF",
+            "club": "Copenhagen"
+          },
+          {
+            "name": "Divine Lunga",
+            "position": "DF",
+            "club": "Mamelodi Sundowns"
+          },
+          {
+            "name": "Prosper Padera",
+            "position": "MF",
+            "club": "SJK"
+          },
+          {
+            "name": "Prince Dube",
+            "position": "FW",
+            "club": "Young Africans"
+          },
+          {
+            "name": "Jonah Fabisch",
+            "position": "MF",
+            "club": "Erzgebirge Aue"
+          },
+          {
+            "name": "Macauley Bonne",
+            "position": "FW",
+            "club": "Maldon & Tiptree"
+          },
+          {
+            "name": "Andy Rinomhota",
+            "position": "MF",
+            "club": "Reading"
+          },
+          {
+            "name": "Washington Navaya",
+            "position": "FW",
+            "club": "TelOne"
+          },
+          {
+            "name": "Bill Antonio",
+            "position": "FW",
+            "club": "Mechelen"
+          },
+          {
+            "name": "Brendan Galloway",
+            "position": "DF",
+            "club": "Plymouth Argyle"
+          },
+          {
+            "name": "Daniel Msendami",
+            "position": "FW",
+            "club": "Marumo Gallants"
+          },
+          {
+            "name": "Teenage Hadebe",
+            "position": "DF",
+            "club": "FC Cincinnati"
+          },
+          {
+            "name": "Martin Mapisa",
+            "position": "GK",
+            "club": "MWOS"
+          },
+          {
+            "name": "Knowledge Musona",
+            "position": "MF",
+            "club": "Scottland"
+          },
+          {
+            "name": "Marvelous Nakamba",
+            "position": "MF",
+            "club": "Luton Town"
+          },
+          {
+            "name": "Tawanda Maswanhise",
+            "position": "FW",
+            "club": "Motherwell"
+          },
+          {
+            "name": "Tawanda Chirewa",
+            "position": "MF",
+            "club": "Wolverhampton Wanderers"
+          },
+          {
+            "name": "Godknows Murwira",
+            "position": "DF",
+            "club": "Scottland"
+          },
+          {
+            "name": "Washington Arubi",
+            "position": "GK",
+            "club": "Marumo Gallants"
+          },
+          {
+            "name": "Emmanuel Jalai",
+            "position": "DF",
+            "club": "Dynamos"
+          },
+          {
+            "name": "Isheanesu Mauchi",
+            "position": "DF",
+            "club": "Simba Bhora"
+          },
+          {
+            "name": "Alec Mudimu",
+            "position": "DF",
+            "club": "Flint Town United"
+          },
+          {
+            "name": "Ishmael Wadi",
+            "position": "FW",
+            "club": "CAPS United"
+          },
+          {
+            "name": "Junior Zindoga",
+            "position": "FW",
+            "club": "TS Galaxy"
+          },
+          {
+            "name": "Tadiwa Chakuchichi",
+            "position": "MF",
+            "club": "Scottland"
+          }
+        ]
+      }
+    },
+    "Group C": {
+      "Nigeria": {
+        "coach": "Éric Chelle",
+        "players": [
+          {
+            "name": "Francis Uzoho",
+            "position": "GK",
+            "club": "Omonia"
+          },
+          {
+            "name": "Bright Osayi-Samuel",
+            "position": "DF",
+            "club": "Birmingham City"
+          },
+          {
+            "name": "Zaidu Sanusi",
+            "position": "DF",
+            "club": "Porto"
+          },
+          {
+            "name": "Wilfred Ndidi",
+            "position": "MF",
+            "club": "Beşiktaş"
+          },
+          {
+            "name": "Igoh Ogbu",
+            "position": "DF",
+            "club": "Slavia Prague"
+          },
+          {
+            "name": "Semi Ajayi",
+            "position": "DF",
+            "club": "Hull City"
+          },
+          {
+            "name": "Ademola Lookman",
+            "position": "FW",
+            "club": "Atalanta"
+          },
+          {
+            "name": "Frank Onyeka",
+            "position": "MF",
+            "club": "Brentford"
+          },
+          {
+            "name": "Victor Osimhen",
+            "position": "FW",
+            "club": "Galatasaray"
+          },
+          {
+            "name": "Fisayo Dele-Bashiru",
+            "position": "MF",
+            "club": "Lazio"
+          },
+          {
+            "name": "Samuel Chukwueze",
+            "position": "FW",
+            "club": "Fulham"
+          },
+          {
+            "name": "Cyriel Dessers",
+            "position": "FW",
+            "club": "Panathinaikos"
+          },
+          {
+            "name": "Bruno Onyemaechi",
+            "position": "DF",
+            "club": "Olympiacos"
+          },
+          {
+            "name": "Muhammed Usman Edu",
+            "position": "MF",
+            "club": "Ironi Tiberias"
+          },
+          {
+            "name": "Moses Simon",
+            "position": "FW",
+            "club": "Paris FC"
+          },
+          {
+            "name": "Amas Obasogie",
+            "position": "GK",
+            "club": "Singida Black Stars"
+          },
+          {
+            "name": "Alex Iwobi",
+            "position": "MF",
+            "club": "Fulham"
+          },
+          {
+            "name": "Raphael Onyedika",
+            "position": "MF",
+            "club": "Club Brugge"
+          },
+          {
+            "name": "Paul Onuachu",
+            "position": "FW",
+            "club": "Trabzonspor"
+          },
+          {
+            "name": "Chidozie Awaziem",
+            "position": "DF",
+            "club": "Nantes"
+          },
+          {
+            "name": "Calvin Bassey",
+            "position": "DF",
+            "club": "Fulham"
+          },
+          {
+            "name": "Akor Adams",
+            "position": "FW",
+            "club": "Sevilla"
+          },
+          {
+            "name": "Stanley Nwabali",
+            "position": "GK",
+            "club": "Chippa United"
+          },
+          {
+            "name": "Chidera Ejuke",
+            "position": "FW",
+            "club": "Sevilla"
+          },
+          {
+            "name": "Salim Fago Lawal",
+            "position": "FW",
+            "club": "Istra 1961"
+          },
+          {
+            "name": "Ebenezer Akinsanmiro",
+            "position": "MF",
+            "club": "Pisa"
+          },
+          {
+            "name": "Ryan Alebiosu",
+            "position": "DF",
+            "club": "Blackburn Rovers"
+          },
+          {
+            "name": "Tochukwu Nnadi",
+            "position": "MF",
+            "club": "Zulte Waregem"
+          }
+        ]
+      },
+      "Tanzania": {
+        "coach": "Miguel Gamondi",
+        "players": [
+          {
+            "name": "Hussein Masalanga",
+            "position": "GK",
+            "club": "Singida Black Stars"
+          },
+          {
+            "name": "Pascal Msindo",
+            "position": "DF",
+            "club": "Azam"
+          },
+          {
+            "name": "Nickson Kibabage",
+            "position": "DF",
+            "club": "Simba"
+          },
+          {
+            "name": "Ibrahim Hamad",
+            "position": "DF",
+            "club": "Young Africans"
+          },
+          {
+            "name": "Dickson Job",
+            "position": "DF",
+            "club": "Young Africans"
+          },
+          {
+            "name": "Feisal Salum",
+            "position": "MF",
+            "club": "Azam"
+          },
+          {
+            "name": "Iddy Nado",
+            "position": "FW",
+            "club": "Azam"
+          },
+          {
+            "name": "Charles M'Mombwa",
+            "position": "MF",
+            "club": "Floriana"
+          },
+          {
+            "name": "Selemani Mwalimu",
+            "position": "FW",
+            "club": "Simba"
+          },
+          {
+            "name": "Mbwana Samatta",
+            "position": "FW",
+            "club": "Le Havre"
+          },
+          {
+            "name": "Kibu Denis",
+            "position": "FW",
+            "club": "Simba"
+          },
+          {
+            "name": "Simon Msuva",
+            "position": "FW",
+            "club": "Al-Talaba"
+          },
+          {
+            "name": "Yakoub Suleiman Ali",
+            "position": "GK",
+            "club": "Simba"
+          },
+          {
+            "name": "Bakari Mwamnyeto",
+            "position": "DF",
+            "club": "Young Africans"
+          },
+          {
+            "name": "Mohamed Husseini",
+            "position": "DF",
+            "club": "Young Africans"
+          },
+          {
+            "name": "Wilson Nangu",
+            "position": "DF",
+            "club": "Simba"
+          },
+          {
+            "name": "Khalid Habibu Iddi",
+            "position": "MF",
+            "club": "Singida Black Stars"
+          },
+          {
+            "name": "Morice Abraham",
+            "position": "MF",
+            "club": "Simba"
+          },
+          {
+            "name": "Lusajo Mwaikenda",
+            "position": "DF",
+            "club": "Azam"
+          },
+          {
+            "name": "Novatus Miroshi",
+            "position": "DF",
+            "club": "Göztepe"
+          },
+          {
+            "name": "Kelvin John",
+            "position": "FW",
+            "club": "AaB"
+          },
+          {
+            "name": "Shomari Kapombe",
+            "position": "DF",
+            "club": "Simba"
+          },
+          {
+            "name": "Yusuph Kagoma",
+            "position": "MF",
+            "club": "Simba"
+          },
+          {
+            "name": "Kelvin Nashon",
+            "position": "MF",
+            "club": "Pamba"
+          },
+          {
+            "name": "Haji Mnoga",
+            "position": "MF",
+            "club": "Salford City"
+          },
+          {
+            "name": "Tarryn Allarakhia",
+            "position": "MF",
+            "club": "Rochdale"
+          },
+          {
+            "name": "Alphonce Msanga",
+            "position": "MF",
+            "club": "Şamaxı"
+          },
+          {
+            "name": "Zuberi Foba",
+            "position": "GK",
+            "club": "Azam"
+          }
+        ]
+      },
+      "Tunisia": {
+        "coach": "Sami Trabelsi",
+        "players": [
+          {
+            "name": "Noureddine Farhati",
+            "position": "GK",
+            "club": "Stade Tunisien"
+          },
+          {
+            "name": "Ali Abdi",
+            "position": "DF",
+            "club": "Nice"
+          },
+          {
+            "name": "Montassar Talbi",
+            "position": "DF",
+            "club": "Lorient"
+          },
+          {
+            "name": "Yassine Meriah",
+            "position": "DF",
+            "club": "Espérance de Tunis"
+          },
+          {
+            "name": "Mohamed Ali Ben Romdhane",
+            "position": "MF",
+            "club": "Al Ahly"
+          },
+          {
+            "name": "Dylan Bronn",
+            "position": "DF",
+            "club": "Servette"
+          },
+          {
+            "name": "Elias Achouri",
+            "position": "FW",
+            "club": "Copenhagen"
+          },
+          {
+            "name": "Elias Saad",
+            "position": "FW",
+            "club": "Augsburg"
+          },
+          {
+            "name": "Hazem Mastouri",
+            "position": "FW",
+            "club": "Dynamo Makhachkala"
+          },
+          {
+            "name": "Hannibal Mejbri",
+            "position": "MF",
+            "club": "Burnley"
+          },
+          {
+            "name": "Ismaël Gharbi",
+            "position": "MF",
+            "club": "Augsburg"
+          },
+          {
+            "name": "Ali Maâloul",
+            "position": "DF",
+            "club": "CS Sfaxien"
+          },
+          {
+            "name": "Ferjani Sassi",
+            "position": "MF",
+            "club": "Al-Gharafa"
+          },
+          {
+            "name": "Mohamed Ben Ali",
+            "position": "DF",
+            "club": "Espérance de Tunis"
+          },
+          {
+            "name": "Hadj Mahmoud",
+            "position": "MF",
+            "club": "Lugano"
+          },
+          {
+            "name": "Aymen Dahmen",
+            "position": "GK",
+            "club": "CS Sfaxien"
+          },
+          {
+            "name": "Ellyes Skhiri",
+            "position": "MF",
+            "club": "Eintracht Frankfurt"
+          },
+          {
+            "name": "Nader Ghandri",
+            "position": "DF",
+            "club": "Akhmat Grozny"
+          },
+          {
+            "name": "Firas Chaouat",
+            "position": "FW",
+            "club": "Club Africain"
+          },
+          {
+            "name": "Yan Valery",
+            "position": "DF",
+            "club": "Sheffield Wednesday"
+          },
+          {
+            "name": "Mortadha Ben Ouanes",
+            "position": "DF",
+            "club": "Kasımpaşa"
+          },
+          {
+            "name": "Bechir Ben Saïd",
+            "position": "GK",
+            "club": "Espérance de Tunis"
+          },
+          {
+            "name": "Naïm Sliti",
+            "position": "FW",
+            "club": "Al-Shamal"
+          },
+          {
+            "name": "Adem Arous",
+            "position": "DF",
+            "club": "Kasımpaşa"
+          },
+          {
+            "name": "Houssem Tka",
+            "position": "MF",
+            "club": "Espérance de Tunis"
+          },
+          {
+            "name": "Sebastian Tounekti",
+            "position": "FW",
+            "club": "Celtic"
+          },
+          {
+            "name": "Seifeddine Jaziri",
+            "position": "FW",
+            "club": "Zamalek"
+          },
+          {
+            "name": "Sabri Ben Hessen",
+            "position": "GK",
+            "club": "Étoile du Sahel"
+          }
+        ]
+      },
+      "Uganda": {
+        "coach": "Paul Put",
+        "players": [
+          {
+            "name": "Nafian Alionzi",
+            "position": "GK",
+            "club": "Defence Force"
+          },
+          {
+            "name": "Rogers Torach",
+            "position": "DF",
+            "club": "Vipers"
+          },
+          {
+            "name": "Timothy Awany",
+            "position": "DF",
+            "club": "Ashdod"
+          },
+          {
+            "name": "Kenneth Semakula",
+            "position": "MF",
+            "club": "Al-Adalah"
+          },
+          {
+            "name": "Toby Sibbick",
+            "position": "DF",
+            "club": "Burton Albion"
+          },
+          {
+            "name": "Bobosi Byaruhanga",
+            "position": "MF",
+            "club": "Oakland Roots"
+          },
+          {
+            "name": "Rogers Mato",
+            "position": "FW",
+            "club": "Vardar"
+          },
+          {
+            "name": "Khalid Aucho",
+            "position": "MF",
+            "club": "Singida Black Stars"
+          },
+          {
+            "name": "Uche Ikpeazu",
+            "position": "FW",
+            "club": "St Johnstone"
+          },
+          {
+            "name": "Travis Mutyaba",
+            "position": "MF",
+            "club": "CS Sfaxien"
+          },
+          {
+            "name": "Steven Mukwala",
+            "position": "FW",
+            "club": "Simba"
+          },
+          {
+            "name": "Baba Alhassan",
+            "position": "MF",
+            "club": "FCSB"
+          },
+          {
+            "name": "Elio Capradossi",
+            "position": "DF",
+            "club": "Universitatea Cluj"
+          },
+          {
+            "name": "Denis Omedi",
+            "position": "FW",
+            "club": "APR"
+          },
+          {
+            "name": "Jordan Obita",
+            "position": "DF",
+            "club": "Hibernian"
+          },
+          {
+            "name": "Ronald Ssekiganda",
+            "position": "MF",
+            "club": "APR"
+          },
+          {
+            "name": "Reagan Mpande",
+            "position": "FW",
+            "club": "Villa"
+          },
+          {
+            "name": "Denis Onyango",
+            "position": "GK",
+            "club": "Mamelodi Sundowns"
+          },
+          {
+            "name": "Jamal Salim",
+            "position": "GK",
+            "club": "Richards Bay"
+          },
+          {
+            "name": "Isaac Muleme",
+            "position": "DF",
+            "club": "Viktoria Žižkov"
+          },
+          {
+            "name": "Allan Okello",
+            "position": "MF",
+            "club": "Vipers"
+          },
+          {
+            "name": "Jude Ssemugabi",
+            "position": "FW",
+            "club": "Jamus"
+          },
+          {
+            "name": "Aziz Kayondo",
+            "position": "DF",
+            "club": "Slovan Liberec"
+          },
+          {
+            "name": "James Bogere",
+            "position": "FW",
+            "club": "Masaka Sunshine"
+          },
+          {
+            "name": "Shafik Nana Kwikiriza",
+            "position": "FW",
+            "club": "KCCA"
+          },
+          {
+            "name": "Hilary Mukundane",
+            "position": "DF",
+            "club": "Vipers"
+          },
+          {
+            "name": "Melvyn Lorenzen",
+            "position": "FW",
+            "club": "Muangthong United"
+          },
+          {
+            "name": "Ivan Ahimbisibwe",
+            "position": "FW",
+            "club": "KCCA"
+          }
+        ]
+      }
+    },
+    "Group D": {
+      "Benin": {
+        "coach": "Gernot Rohr",
+        "players": [
+          {
+            "name": "Marcel Dandjinou",
+            "position": "GK",
+            "club": "Kruger United"
+          },
+          {
+            "name": "Rodrigue Fassinou",
+            "position": "MF",
+            "club": "Coton"
+          },
+          {
+            "name": "Tamimou Ouorou",
+            "position": "DF",
+            "club": "Sobemap"
+          },
+          {
+            "name": "Attidjikou Samadou",
+            "position": "MF",
+            "club": "Smouha"
+          },
+          {
+            "name": "Yohan Roche",
+            "position": "DF",
+            "club": "Petrolul Ploiești"
+          },
+          {
+            "name": "Olivier Verdon",
+            "position": "DF",
+            "club": "Ludogorets Razgrad"
+          },
+          {
+            "name": "Mattéo Ahlinvi",
+            "position": "MF",
+            "club": "Arsenal Tula"
+          },
+          {
+            "name": "Hassane Imourane",
+            "position": "MF",
+            "club": "Grasshopper"
+          },
+          {
+            "name": "Steve Mounié",
+            "position": "FW",
+            "club": "Alanyaspor"
+          },
+          {
+            "name": "Aiyegun Tosin",
+            "position": "FW",
+            "club": "Lorient"
+          },
+          {
+            "name": "Rachid Moumini",
+            "position": "DF",
+            "club": "Sumgayit"
+          },
+          {
+            "name": "David Kiki",
+            "position": "DF",
+            "club": "FCSB"
+          },
+          {
+            "name": "Mohamed Tijani",
+            "position": "DF",
+            "club": "Yverdon-Sport"
+          },
+          {
+            "name": "Mariano Ahouangbo",
+            "position": "MF",
+            "club": "Olimpija Ljubljana"
+          },
+          {
+            "name": "Sessi D'Almeida",
+            "position": "MF",
+            "club": "Neftçi"
+          },
+          {
+            "name": "Saturnin Allagbé",
+            "position": "GK",
+            "club": "Chauray"
+          },
+          {
+            "name": "Rodolfo Aloko",
+            "position": "MF",
+            "club": "Kustošija"
+          },
+          {
+            "name": "Junior Olaitan",
+            "position": "MF",
+            "club": "Göztepe"
+          },
+          {
+            "name": "Dodo Dokou",
+            "position": "MF",
+            "club": "Leixões"
+          },
+          {
+            "name": "Jodel Dossou",
+            "position": "MF",
+            "club": "Pays du Valois"
+          },
+          {
+            "name": "Rodrigue Kossi",
+            "position": "MF",
+            "club": "Hassania Agadir"
+          },
+          {
+            "name": "Romaric Amoussou",
+            "position": "MF",
+            "club": "ASEC Mimosas"
+          },
+          {
+            "name": "Serge Obassa",
+            "position": "GK",
+            "club": "Remo Stars"
+          },
+          {
+            "name": "Razack Rachidou",
+            "position": "MF",
+            "club": "Kustošija"
+          },
+          {
+            "name": "Olatoundji Tessilimi",
+            "position": "MF",
+            "club": "SJK"
+          },
+          {
+            "name": "Charlemagne Azongnitode",
+            "position": "DF",
+            "club": "Oulu"
+          },
+          {
+            "name": "Gislain Ahoudo",
+            "position": "MF",
+            "club": "AS Gabès"
+          },
+          {
+            "name": "Adam Akimey",
+            "position": "FW",
+            "club": "Helsingborg"
+          }
+        ]
+      },
+      "Botswana": {
+        "coach": "Morena Ramoreboli",
+        "players": [
+          {
+            "name": "Kabelo Dambe",
+            "position": "GK",
+            "club": "Township Rollers"
+          },
+          {
+            "name": "Thabo Leinanyane",
+            "position": "DF",
+            "club": "Jwaneng Galaxy"
+          },
+          {
+            "name": "Thatayaone Ditlhokwe",
+            "position": "DF",
+            "club": "Al-Ittihad Tripoli"
+          },
+          {
+            "name": "Mosha Gaolaolwe",
+            "position": "DF",
+            "club": "Township Rollers"
+          },
+          {
+            "name": "Alford Velaphi",
+            "position": "DF",
+            "club": "Gaborone United"
+          },
+          {
+            "name": "Gape Mohutsiwa",
+            "position": "MF",
+            "club": "MC Oran"
+          },
+          {
+            "name": "Kabelo Seakanyeng",
+            "position": "FW",
+            "club": "Maghreb Fez"
+          },
+          {
+            "name": "Olebogeng Ramotse",
+            "position": "MF",
+            "club": "Jwaneng Galaxy"
+          },
+          {
+            "name": "Omaatla Kebatho",
+            "position": "FW",
+            "club": "Jwaneng Galaxy"
+          },
+          {
+            "name": "Thabang Sesinyi",
+            "position": "FW",
+            "club": "Jwaneng Galaxy"
+          },
+          {
+            "name": "Tumisang Orebonye",
+            "position": "FW",
+            "club": "Wydad AC"
+          },
+          {
+            "name": "Mothusi Johnson",
+            "position": "DF",
+            "club": "Gaborone United"
+          },
+          {
+            "name": "Segolame Boy",
+            "position": "MF",
+            "club": "Sua Flamingoes"
+          },
+          {
+            "name": "Godiraone Modingwane",
+            "position": "MF",
+            "club": "Botswana Defence Force"
+          },
+          {
+            "name": "Mothusi Cooper",
+            "position": "MF",
+            "club": "Township Rollers"
+          },
+          {
+            "name": "Keagile Kgosipula",
+            "position": "GK",
+            "club": "Mochudi Centre Chiefs"
+          },
+          {
+            "name": "Thatayaone Kgamanyane",
+            "position": "FW",
+            "club": "Gaborone United"
+          },
+          {
+            "name": "Lebogang Ditsele",
+            "position": "MF",
+            "club": "Gaborone United"
+          },
+          {
+            "name": "Chicco Molefe",
+            "position": "DF",
+            "club": "Jwaneng Galaxy"
+          },
+          {
+            "name": "Tebogo Kopelang",
+            "position": "DF",
+            "club": "Jwaneng Galaxy"
+          },
+          {
+            "name": "Thabo Maponda",
+            "position": "FW",
+            "club": "Gaborone United"
+          },
+          {
+            "name": "Gilbert Baruti",
+            "position": "MF",
+            "club": "Mochudi Centre Chiefs"
+          },
+          {
+            "name": "Goitseone Phoko",
+            "position": "GK",
+            "club": "Jwaneng Galaxy"
+          },
+          {
+            "name": "Losika Ratshkudu",
+            "position": "FW",
+            "club": "Ubuntu"
+          },
+          {
+            "name": "Monty Enosa",
+            "position": "MF",
+            "club": "Mochudi Centre Chiefs"
+          },
+          {
+            "name": "Shanganani Ngada",
+            "position": "DF",
+            "club": "Mochudi Centre Chiefs"
+          }
+        ]
+      },
+      "DR Congo": {
+        "coach": "Sébastien Desabre",
+        "players": [
+          {
+            "name": "Lionel Mpasi",
+            "position": "GK",
+            "club": "Le Havre"
+          },
+          {
+            "name": "Aaron Wan-Bissaka",
+            "position": "DF",
+            "club": "West Ham United"
+          },
+          {
+            "name": "Steve Kapuadi",
+            "position": "DF",
+            "club": "Legia Warsaw"
+          },
+          {
+            "name": "Axel Tuanzebe",
+            "position": "DF",
+            "club": "Burnley"
+          },
+          {
+            "name": "Dylan Batubinsika",
+            "position": "DF",
+            "club": "Saint-Étienne"
+          },
+          {
+            "name": "Ngal'ayel Mukau",
+            "position": "MF",
+            "club": "Lille"
+          },
+          {
+            "name": "Nathanaël Mbuku",
+            "position": "FW",
+            "club": "Montpellier"
+          },
+          {
+            "name": "Samuel Moutoussamy",
+            "position": "MF",
+            "club": "Atromitos"
+          },
+          {
+            "name": "Samuel Essende",
+            "position": "FW",
+            "club": "Augsburg"
+          },
+          {
+            "name": "Théo Bongonda",
+            "position": "FW",
+            "club": "Spartak Moscow"
+          },
+          {
+            "name": "Gaël Kakuta",
+            "position": "FW",
+            "club": "Sakaryaspor"
+          },
+          {
+            "name": "Joris Kayembe",
+            "position": "DF",
+            "club": "Genk"
+          },
+          {
+            "name": "Meschak Elia",
+            "position": "FW",
+            "club": "Alanyaspor"
+          },
+          {
+            "name": "Noah Sadiki",
+            "position": "MF",
+            "club": "Sunderland"
+          },
+          {
+            "name": "Rocky Bushiri",
+            "position": "DF",
+            "club": "Hibernian"
+          },
+          {
+            "name": "Timothy Fayulu",
+            "position": "GK",
+            "club": "Noah"
+          },
+          {
+            "name": "Cédric Bakambu",
+            "position": "FW",
+            "club": "Real Betis"
+          },
+          {
+            "name": "Charles Pickel",
+            "position": "MF",
+            "club": "Espanyol"
+          },
+          {
+            "name": "Fiston Mayele",
+            "position": "FW",
+            "club": "Pyramids"
+          },
+          {
+            "name": "Brian Cipenga",
+            "position": "FW",
+            "club": "Castellón"
+          },
+          {
+            "name": "Matthieu Epolo",
+            "position": "GK",
+            "club": "Standard Liège"
+          },
+          {
+            "name": "Chancel Mbemba",
+            "position": "DF",
+            "club": "Lille"
+          },
+          {
+            "name": "Simon Banza",
+            "position": "FW",
+            "club": "Al-Jazira"
+          },
+          {
+            "name": "Gédéon Kalulu",
+            "position": "DF",
+            "club": "Aris Limassol"
+          },
+          {
+            "name": "Edo Kayembe",
+            "position": "MF",
+            "club": "Watford"
+          },
+          {
+            "name": "Arthur Masuaku",
+            "position": "DF",
+            "club": "Sunderland"
+          },
+          {
+            "name": "Michel-Ange Balikwisha",
+            "position": "FW",
+            "club": "Celtic"
+          },
+          {
+            "name": "Dimitry Bertaud",
+            "position": "GK",
+            "club": "Unattached"
+          }
+        ]
+      },
+      "Senegal": {
+        "coach": "Pape Thiaw",
+        "players": [
+          {
+            "name": "Yehvann Diouf",
+            "position": "GK",
+            "club": "Nice"
+          },
+          {
+            "name": "Mamadou Sarr",
+            "position": "DF",
+            "club": "Strasbourg"
+          },
+          {
+            "name": "Kalidou Koulibaly",
+            "position": "DF",
+            "club": "Al-Hilal"
+          },
+          {
+            "name": "Abdoulaye Seck",
+            "position": "DF",
+            "club": "Maccabi Haifa"
+          },
+          {
+            "name": "Idrissa Gueye",
+            "position": "MF",
+            "club": "Everton"
+          },
+          {
+            "name": "Pathé Ciss",
+            "position": "MF",
+            "club": "Rayo Vallecano"
+          },
+          {
+            "name": "Habib Diarra",
+            "position": "MF",
+            "club": "Sunderland"
+          },
+          {
+            "name": "Lamine Camara",
+            "position": "MF",
+            "club": "Monaco"
+          },
+          {
+            "name": "Boulaye Dia",
+            "position": "FW",
+            "club": "Lazio"
+          },
+          {
+            "name": "Sadio Mané",
+            "position": "FW",
+            "club": "Al-Nassr"
+          },
+          {
+            "name": "Nicolas Jackson",
+            "position": "FW",
+            "club": "Bayern Munich"
+          },
+          {
+            "name": "Cherif Ndiaye",
+            "position": "FW",
+            "club": "Samsunspor"
+          },
+          {
+            "name": "Iliman Ndiaye",
+            "position": "FW",
+            "club": "Everton"
+          },
+          {
+            "name": "Ismail Jakobs",
+            "position": "DF",
+            "club": "Galatasaray"
+          },
+          {
+            "name": "Krépin Diatta",
+            "position": "DF",
+            "club": "Monaco"
+          },
+          {
+            "name": "Édouard Mendy",
+            "position": "GK",
+            "club": "Al-Ahli"
+          },
+          {
+            "name": "Pape Matar Sarr",
+            "position": "MF",
+            "club": "Tottenham Hotspur"
+          },
+          {
+            "name": "Ismaïla Sarr",
+            "position": "FW",
+            "club": "Crystal Palace"
+          },
+          {
+            "name": "Moussa Niakhaté",
+            "position": "DF",
+            "club": "Lyon"
+          },
+          {
+            "name": "Habib Diallo",
+            "position": "FW",
+            "club": "Metz"
+          },
+          {
+            "name": "Cheikh Sabaly",
+            "position": "FW",
+            "club": "Metz"
+          },
+          {
+            "name": "Ousseynou Niang",
+            "position": "MF",
+            "club": "Union SG"
+          },
+          {
+            "name": "Mory Diaw",
+            "position": "GK",
+            "club": "Le Havre"
+          },
+          {
+            "name": "Antoine Mendy",
+            "position": "DF",
+            "club": "Nice"
+          },
+          {
+            "name": "El Hadji Malick Diouf",
+            "position": "DF",
+            "club": "West Ham United"
+          },
+          {
+            "name": "Pape Gueye",
+            "position": "MF",
+            "club": "Villarreal"
+          },
+          {
+            "name": "Ibrahim Mbaye",
+            "position": "FW",
+            "club": "Paris Saint-Germain"
+          },
+          {
+            "name": "Mamadou Camara",
+            "position": "MF",
+            "club": "RS Berkane"
+          }
+        ]
+      }
+    },
+    "Group E": {
+      "Algeria": {
+        "coach": "Vladimir Petković",
+        "players": [
+          {
+            "name": "Anthony Mandrea",
+            "position": "GK",
+            "club": "Caen"
+          },
+          {
+            "name": "Aïssa Mandi",
+            "position": "DF",
+            "club": "Lille"
+          },
+          {
+            "name": "Mehdi Dorval",
+            "position": "DF",
+            "club": "Bari"
+          },
+          {
+            "name": "Mohamed Amine Tougai",
+            "position": "DF",
+            "club": "Espérance de Tunis"
+          },
+          {
+            "name": "Zineddine Belaïd",
+            "position": "DF",
+            "club": "JS Kabylie"
+          },
+          {
+            "name": "Ramiz Zerrouki",
+            "position": "MF",
+            "club": "Twente"
+          },
+          {
+            "name": "Riyad Mahrez",
+            "position": "MF",
+            "club": "Al-Ahli"
+          },
+          {
+            "name": "Himad Abdelli",
+            "position": "MF",
+            "club": "Angers"
+          },
+          {
+            "name": "Baghdad Bounedjah",
+            "position": "FW",
+            "club": "Al-Shamal"
+          },
+          {
+            "name": "Ismaël Bennacer",
+            "position": "MF",
+            "club": "Dinamo Zagreb"
+          },
+          {
+            "name": "Anis Hadj Moussa",
+            "position": "FW",
+            "club": "Feyenoord"
+          },
+          {
+            "name": "Monsef Bakrar",
+            "position": "FW",
+            "club": "Dinamo Zagreb"
+          },
+          {
+            "name": "Jaouen Hadjam",
+            "position": "DF",
+            "club": "Young Boys"
+          },
+          {
+            "name": "Hicham Boudaoui",
+            "position": "MF",
+            "club": "Nice"
+          },
+          {
+            "name": "Rayan Aït-Nouri",
+            "position": "DF",
+            "club": "Manchester City"
+          },
+          {
+            "name": "Oussama Benbot",
+            "position": "GK",
+            "club": "USM Alger"
+          },
+          {
+            "name": "Farès Chaïbi",
+            "position": "MF",
+            "club": "Eintracht Frankfurt"
+          },
+          {
+            "name": "Mohamed Amoura",
+            "position": "FW",
+            "club": "VfL Wolfsburg"
+          },
+          {
+            "name": "Adem Zorgane",
+            "position": "MF",
+            "club": "Union SG"
+          },
+          {
+            "name": "Youcef Atal",
+            "position": "DF",
+            "club": "Al-Sadd"
+          },
+          {
+            "name": "Ramy Bensebaini",
+            "position": "DF",
+            "club": "Borussia Dortmund"
+          },
+          {
+            "name": "Ibrahim Maza",
+            "position": "MF",
+            "club": "Bayer Leverkusen"
+          },
+          {
+            "name": "Luca Zidane",
+            "position": "GK",
+            "club": "Granada"
+          },
+          {
+            "name": "Ilan Kebbal",
+            "position": "MF",
+            "club": "Paris FC"
+          },
+          {
+            "name": "Rafik Belghali",
+            "position": "DF",
+            "club": "Hellas Verona"
+          },
+          {
+            "name": "Samir Chergui",
+            "position": "DF",
+            "club": "Paris FC"
+          },
+          {
+            "name": "Adil Boulbina",
+            "position": "MF",
+            "club": "Al-Duhail"
+          },
+          {
+            "name": "Redouane Berkane",
+            "position": "FW",
+            "club": "Al-Wakrah"
+          }
+        ]
+      },
+      "Burkina Faso": {
+        "coach": "Brama Traoré",
+        "players": [
+          {
+            "name": "Farid Ouédraogo",
+            "position": "GK",
+            "club": "Al Hilal"
+          },
+          {
+            "name": "Lassina Traoré",
+            "position": "FW",
+            "club": "Shakhtar Donetsk"
+          },
+          {
+            "name": "Abdoul Ayinde",
+            "position": "DF",
+            "club": "Gent"
+          },
+          {
+            "name": "Adamo Nagalo",
+            "position": "DF",
+            "club": "PSV Eindhoven"
+          },
+          {
+            "name": "Nasser Djiga",
+            "position": "DF",
+            "club": "Rangers"
+          },
+          {
+            "name": "Mohamed Zougrana",
+            "position": "MF",
+            "club": "MC Alger"
+          },
+          {
+            "name": "Dango Ouattara",
+            "position": "FW",
+            "club": "Brentford"
+          },
+          {
+            "name": "Cedric Badolo",
+            "position": "MF",
+            "club": "Spartak Trnava"
+          },
+          {
+            "name": "Issa Kaboré",
+            "position": "DF",
+            "club": "Wrexham"
+          },
+          {
+            "name": "Bertrand Traoré",
+            "position": "FW",
+            "club": "Sunderland"
+          },
+          {
+            "name": "Ousseni Bouda",
+            "position": "FW",
+            "club": "San Jose Earthquakes"
+          },
+          {
+            "name": "Edmond Tapsoba",
+            "position": "DF",
+            "club": "Bayer Leverkusen"
+          },
+          {
+            "name": "Mohamed Konaté*",
+            "position": "FW",
+            "club": "Akhmat Grozny"
+          },
+          {
+            "name": "Issoufou Dayo",
+            "position": "DF",
+            "club": "Umm Salal"
+          },
+          {
+            "name": "Abdoul Yoda*",
+            "position": "MF",
+            "club": "Milsami Orhei"
+          },
+          {
+            "name": "Hervé Koffi",
+            "position": "GK",
+            "club": "Angers"
+          },
+          {
+            "name": "Stephane Aziz Ki",
+            "position": "MF",
+            "club": "Wydad AC"
+          },
+          {
+            "name": "Ismahila Ouédraogo",
+            "position": "MF",
+            "club": "OB"
+          },
+          {
+            "name": "Georgi Minoungou",
+            "position": "FW",
+            "club": "Seattle Sounders"
+          },
+          {
+            "name": "Gustavo Sangaré",
+            "position": "MF",
+            "club": "Noah"
+          },
+          {
+            "name": "Cyriaque Irié",
+            "position": "FW",
+            "club": "SC Freiburg"
+          },
+          {
+            "name": "Blati Touré",
+            "position": "MF",
+            "club": "Pyramids"
+          },
+          {
+            "name": "Kilian Nikiema",
+            "position": "GK",
+            "club": "ADO Den Haag"
+          },
+          {
+            "name": "Saïdou Simporé",
+            "position": "MF",
+            "club": "National Bank of Egypt"
+          },
+          {
+            "name": "Steeve Yago",
+            "position": "DF",
+            "club": "Aris Limassol"
+          },
+          {
+            "name": "Arsène Kouassi",
+            "position": "DF",
+            "club": "Lorient"
+          },
+          {
+            "name": "Pierre Landry Kaboré",
+            "position": "FW",
+            "club": "Heart of Midlothian"
+          },
+          {
+            "name": "Josué Tiendrébéogo*",
+            "position": "MF",
+            "club": "Annecy"
+          }
+        ]
+      },
+      "Equatorial Guinea": {
+        "coach": "Juan Michá",
+        "players": [
+          {
+            "name": "Jesús Owono",
+            "position": "GK",
+            "club": "FC Andorra"
+          },
+          {
+            "name": "Néstor Senra",
+            "position": "DF",
+            "club": "Recreativo"
+          },
+          {
+            "name": "Marvin Anieboh",
+            "position": "DF",
+            "club": "SS Reyes"
+          },
+          {
+            "name": "Álex Balboa",
+            "position": "MF",
+            "club": "Lugo"
+          },
+          {
+            "name": "Omar Mascarell",
+            "position": "MF",
+            "club": "Mallorca"
+          },
+          {
+            "name": "Iban Salvador",
+            "position": "FW",
+            "club": "Wisła Płock"
+          },
+          {
+            "name": "José Machín",
+            "position": "MF",
+            "club": "Vis Pesaro"
+          },
+          {
+            "name": "Jannick Buyla",
+            "position": "MF",
+            "club": "Numancia"
+          },
+          {
+            "name": "Dorian Jr.",
+            "position": "FW",
+            "club": "Viborg"
+          },
+          {
+            "name": "Emilio Nsue",
+            "position": "FW",
+            "club": "Intercity"
+          },
+          {
+            "name": "Basilio Ndong",
+            "position": "DF",
+            "club": "Tirana"
+          },
+          {
+            "name": "Charles Ondo",
+            "position": "DF",
+            "club": "Portland Timbers"
+          },
+          {
+            "name": "Aitor Embela",
+            "position": "GK",
+            "club": "Soneja"
+          },
+          {
+            "name": "Pedro Obiang",
+            "position": "MF",
+            "club": "Monza"
+          },
+          {
+            "name": "Carlos Akapo",
+            "position": "DF",
+            "club": "Amazonas"
+          },
+          {
+            "name": "Saúl Coco",
+            "position": "DF",
+            "club": "Torino"
+          },
+          {
+            "name": "Josete Miranda",
+            "position": "FW",
+            "club": "Kalamata"
+          },
+          {
+            "name": "Michael Ngaah",
+            "position": "DF",
+            "club": "Ávila"
+          },
+          {
+            "name": "Luís Asué",
+            "position": "FW",
+            "club": "Shanghai Shenhua"
+          },
+          {
+            "name": "Santiago Eneme",
+            "position": "MF",
+            "club": "Sparta Prague"
+          },
+          {
+            "name": "Esteban Obiang",
+            "position": "DF",
+            "club": "Argeș Pitești"
+          },
+          {
+            "name": "Pablo Ganet",
+            "position": "MF",
+            "club": "Persita Tangerang"
+          },
+          {
+            "name": "Manuel Sapunga",
+            "position": "GK",
+            "club": "Sekhukhune United"
+          },
+          {
+            "name": "Loren Zúñiga",
+            "position": "FW",
+            "club": "Real Madrid"
+          },
+          {
+            "name": "Javier Mum",
+            "position": "DF",
+            "club": "MUZA"
+          },
+          {
+            "name": "José Nabil Ondo",
+            "position": "FW",
+            "club": "Nantes"
+          },
+          {
+            "name": "Gael Joel Akogo",
+            "position": "MF",
+            "club": "Granada"
+          },
+          {
+            "name": "Álex Masogo",
+            "position": "MF",
+            "club": "Beroe"
+          }
+        ]
+      },
+      "Sudan": {
+        "coach": "James Kwesi Appiah",
+        "players": [
+          {
+            "name": "Ali Abu Eshrein",
+            "position": "GK",
+            "club": "Al Hilal"
+          },
+          {
+            "name": "Abuaagla Abdalla",
+            "position": "MF",
+            "club": "Al-Ahly Benghazi"
+          },
+          {
+            "name": "Mohamed Ering",
+            "position": "DF",
+            "club": "Al Hilal"
+          },
+          {
+            "name": "Altayeb Abdelrazeg",
+            "position": "DF",
+            "club": "Al Hilal"
+          },
+          {
+            "name": "Walieldin Khedr",
+            "position": "MF",
+            "club": "Al Hilal"
+          },
+          {
+            "name": "Mustafa Karshoum",
+            "position": "DF",
+            "club": "Al Hilal"
+          },
+          {
+            "name": "Yaser Awad",
+            "position": "DF",
+            "club": "Al Hilal"
+          },
+          {
+            "name": "Abdel Raouf",
+            "position": "MF",
+            "club": "Al Hilal"
+          },
+          {
+            "name": "Yaser Muzmel",
+            "position": "FW",
+            "club": "Al Hilal"
+          },
+          {
+            "name": "Mohamed Abdelrahman",
+            "position": "FW",
+            "club": "Al Hilal"
+          },
+          {
+            "name": "John Mano",
+            "position": "FW",
+            "club": "Al-Akhdar"
+          },
+          {
+            "name": "Bakhit Khamis",
+            "position": "DF",
+            "club": "Al-Ahli Tripoli"
+          },
+          {
+            "name": "Ammar Taifour",
+            "position": "MF",
+            "club": "CS Sfaxien"
+          },
+          {
+            "name": "Mohamed Eisa",
+            "position": "FW",
+            "club": "Uthai Thani"
+          },
+          {
+            "name": "Salah Adel",
+            "position": "MF",
+            "club": "Al Hilal"
+          },
+          {
+            "name": "Muhamed Alnour Abouja",
+            "position": "GK",
+            "club": "Al-Merrikh"
+          },
+          {
+            "name": "Mazin Mohamedein",
+            "position": "DF",
+            "club": "Al-Akhdar"
+          },
+          {
+            "name": "Awad Zayed",
+            "position": "DF",
+            "club": "Al-Merrikh"
+          },
+          {
+            "name": "Ahmed Tabanja",
+            "position": "DF",
+            "club": "Al-Merrikh"
+          },
+          {
+            "name": "Abo Eisa",
+            "position": "FW",
+            "club": "Chonburi"
+          },
+          {
+            "name": "Munjed Alnil",
+            "position": "GK",
+            "club": "Al Merreikh"
+          },
+          {
+            "name": "Al-Jezoli Nouh",
+            "position": "FW",
+            "club": "Al-Ahli Tripoli"
+          },
+          {
+            "name": "Abdelsamad Manen",
+            "position": "MF",
+            "club": "Al-Zamala SC"
+          },
+          {
+            "name": "Muhamed Kesra",
+            "position": "DF",
+            "club": "Jamus"
+          },
+          {
+            "name": "Sheddy Barglan",
+            "position": "DF",
+            "club": "Den Bosch"
+          },
+          {
+            "name": "Aamir Abdallah",
+            "position": "FW",
+            "club": "Avondale"
+          },
+          {
+            "name": "Muhamed Tia Asad",
+            "position": "FW",
+            "club": "Al-Merrikh"
+          }
+        ]
+      }
+    },
+    "Group F": {
+      "Cameroon": {
+        "coach": "David Pagou",
+        "players": [
+          {
+            "name": "Simon Omossola",
+            "position": "GK",
+            "club": "Saint-Éloi Lupopo"
+          },
+          {
+            "name": "Junior Tchamadeu",
+            "position": "DF",
+            "club": "Stoke City"
+          },
+          {
+            "name": "Che Malone",
+            "position": "DF",
+            "club": "USM Alger"
+          },
+          {
+            "name": "Christopher Wooh",
+            "position": "DF",
+            "club": "Spartak Moscow"
+          },
+          {
+            "name": "Nouhou Tolo",
+            "position": "DF",
+            "club": "Seattle Sounders"
+          },
+          {
+            "name": "Gerzino Nyamsi",
+            "position": "DF",
+            "club": "Lokomotiv Moscow"
+          },
+          {
+            "name": "Georges-Kévin Nkoudou",
+            "position": "FW",
+            "club": "Diriyah"
+          },
+          {
+            "name": "Jean Onana",
+            "position": "MF",
+            "club": "Genoa"
+          },
+          {
+            "name": "Frank Magri",
+            "position": "FW",
+            "club": "Toulouse"
+          },
+          {
+            "name": "Bryan Mbeumo",
+            "position": "FW",
+            "club": "Manchester United"
+          },
+          {
+            "name": "Christian Bassogog",
+            "position": "FW",
+            "club": "Al-Okhdood"
+          },
+          {
+            "name": "Patrick Soko",
+            "position": "FW",
+            "club": "Almería"
+          },
+          {
+            "name": "Darlin Yongwa",
+            "position": "DF",
+            "club": "Lorient"
+          },
+          {
+            "name": "Danny Namaso",
+            "position": "FW",
+            "club": "Auxerre"
+          },
+          {
+            "name": "Arthur Avom",
+            "position": "MF",
+            "club": "Lorient"
+          },
+          {
+            "name": "Devis Epassy",
+            "position": "GK",
+            "club": "Dinamo București"
+          },
+          {
+            "name": "Samuel Kotto",
+            "position": "DF",
+            "club": "Gent"
+          },
+          {
+            "name": "Aboubakar Nagida",
+            "position": "DF",
+            "club": "Rennes"
+          },
+          {
+            "name": "Martin Ndzie",
+            "position": "MF",
+            "club": "Rapid Wien"
+          },
+          {
+            "name": "Olivier Kemen",
+            "position": "MF",
+            "club": "İstanbul Başakşehir"
+          },
+          {
+            "name": "Karl Etta Eyong",
+            "position": "FW",
+            "club": "Levante"
+          },
+          {
+            "name": "Flavien Enzo Boyomo",
+            "position": "DF",
+            "club": "Osasuna"
+          },
+          {
+            "name": "Simon Ngapandouetnbu",
+            "position": "GK",
+            "club": "Montpellier"
+          },
+          {
+            "name": "Carlos Baleba",
+            "position": "MF",
+            "club": "Brighton & Hove Albion"
+          },
+          {
+            "name": "Éric Junior Dina Ebimbe",
+            "position": "MF",
+            "club": "Brest"
+          },
+          {
+            "name": "Christian Kofane",
+            "position": "FW",
+            "club": "Bayer Leverkusen"
+          },
+          {
+            "name": "Arnold Maël Kamdem",
+            "position": "MF",
+            "club": "Sport Sinop"
+          },
+          {
+            "name": "Edouard Sombang",
+            "position": "GK",
+            "club": "Colombe Sportive"
+          }
+        ]
+      },
+      "Gabon": {
+        "coach": "Thierry Mouyouma",
+        "players": [
+          {
+            "name": "Anse Ngoubi Demba",
+            "position": "GK",
+            "club": "Mosta"
+          },
+          {
+            "name": "Aaron Appindangoyé",
+            "position": "DF",
+            "club": "Sivasspor"
+          },
+          {
+            "name": "Anthony Oyono",
+            "position": "DF",
+            "club": "Frosinone"
+          },
+          {
+            "name": "Alex Moucketou-Moussounda",
+            "position": "DF",
+            "club": "Aris Limassol"
+          },
+          {
+            "name": "Bruno Ecuele Manga",
+            "position": "DF",
+            "club": "Paris 13 Atletico"
+          },
+          {
+            "name": "Johann Obiang",
+            "position": "DF",
+            "club": "Orléans"
+          },
+          {
+            "name": "Royce Openda",
+            "position": "FW",
+            "club": "Bordeaux"
+          },
+          {
+            "name": "Clench Loufilou",
+            "position": "MF",
+            "club": "Al-Minaa"
+          },
+          {
+            "name": "Pierre-Emerick Aubameyang",
+            "position": "FW",
+            "club": "Marseille"
+          },
+          {
+            "name": "Shavy Babicka",
+            "position": "FW",
+            "club": "Red Star Belgrade"
+          },
+          {
+            "name": "Jim Allevinah",
+            "position": "FW",
+            "club": "Angers"
+          },
+          {
+            "name": "Guélor Kanga",
+            "position": "MF",
+            "club": "Esenler Erokspor"
+          },
+          {
+            "name": "Mick Omfia",
+            "position": "DF",
+            "club": "Hafia"
+          },
+          {
+            "name": "Urie-Michel Mboula",
+            "position": "DF",
+            "club": "Metz"
+          },
+          {
+            "name": "Samaké Nzé Bagnama",
+            "position": "MF",
+            "club": "Stade d'Abidjan"
+          },
+          {
+            "name": "François Bekale",
+            "position": "GK",
+            "club": "Hafia"
+          },
+          {
+            "name": "André Biyogo Poko",
+            "position": "MF",
+            "club": "Amed"
+          },
+          {
+            "name": "Mario Lemina",
+            "position": "MF",
+            "club": "Galatasaray"
+          },
+          {
+            "name": "Jacques Ekomié",
+            "position": "DF",
+            "club": "Angers"
+          },
+          {
+            "name": "Denis Bouanga",
+            "position": "FW",
+            "club": "Los Angeles FC"
+          },
+          {
+            "name": "Jérémy Oyono",
+            "position": "DF",
+            "club": "Frosinone"
+          },
+          {
+            "name": "Didier Ndong",
+            "position": "MF",
+            "club": "Esteghlal"
+          },
+          {
+            "name": "Loyce Mbaba",
+            "position": "GK",
+            "club": "Stella Club"
+          },
+          {
+            "name": "Edlin Randy Essang-Matouti",
+            "position": "FW",
+            "club": "USM Khenchela"
+          },
+          {
+            "name": "Eric Bocoum",
+            "position": "MF",
+            "club": "Gol Gohar Sirjan"
+          },
+          {
+            "name": "Jonathan Do Marcolino",
+            "position": "DF",
+            "club": "Bourg-Péronnas"
+          },
+          {
+            "name": "Teddy Averlant",
+            "position": "FW",
+            "club": "Amiens"
+          },
+          {
+            "name": "Malick Evouna",
+            "position": "FW",
+            "club": "Mangasport"
+          }
+        ]
+      },
+      "Ivory Coast": {
+        "coach": "Emerse Faé",
+        "players": [
+          {
+            "name": "Yahia Fofana",
+            "position": "GK",
+            "club": "Çaykur Rizespor"
+          },
+          {
+            "name": "Ousmane Diomande",
+            "position": "DF",
+            "club": "Sporting CP"
+          },
+          {
+            "name": "Ghislain Konan",
+            "position": "DF",
+            "club": "Gil Vicente"
+          },
+          {
+            "name": "Jean Michaël Seri",
+            "position": "MF",
+            "club": "Maribor"
+          },
+          {
+            "name": "Armel Zohouri",
+            "position": "DF",
+            "club": "Iberia 1999"
+          },
+          {
+            "name": "Seko Fofana",
+            "position": "MF",
+            "club": "Rennes"
+          },
+          {
+            "name": "Odilon Kossounou",
+            "position": "DF",
+            "club": "Atalanta"
+          },
+          {
+            "name": "Franck Kessié",
+            "position": "MF",
+            "club": "Al-Ahli"
+          },
+          {
+            "name": "Vakoun Issouf Bayo",
+            "position": "FW",
+            "club": "Udinese"
+          },
+          {
+            "name": "Wilfried Zaha",
+            "position": "FW",
+            "club": "Charlotte FC"
+          },
+          {
+            "name": "Jean-Philippe Krasso",
+            "position": "FW",
+            "club": "Paris FC"
+          },
+          {
+            "name": "Willy Boly",
+            "position": "DF",
+            "club": "Nottingham Forest"
+          },
+          {
+            "name": "Christopher Opéri",
+            "position": "DF",
+            "club": "İstanbul Başakşehir"
+          },
+          {
+            "name": "Oumar Diakité",
+            "position": "FW",
+            "club": "Cercle Brugge"
+          },
+          {
+            "name": "Amad Diallo",
+            "position": "FW",
+            "club": "Manchester United"
+          },
+          {
+            "name": "Mohamed Koné",
+            "position": "GK",
+            "club": "Charleroi"
+          },
+          {
+            "name": "Guéla Doué",
+            "position": "DF",
+            "club": "Strasbourg"
+          },
+          {
+            "name": "Ibrahim Sangaré",
+            "position": "MF",
+            "club": "Nottingham Forest"
+          },
+          {
+            "name": "Christ Inao Oulaï",
+            "position": "MF",
+            "club": "Trabzonspor"
+          },
+          {
+            "name": "Emmanuel Agbadou",
+            "position": "DF",
+            "club": "Wolverhampton Wanderers"
+          },
+          {
+            "name": "Evan Ndicka",
+            "position": "DF",
+            "club": "Roma"
+          },
+          {
+            "name": "Evann Guessand",
+            "position": "FW",
+            "club": "Aston Villa"
+          },
+          {
+            "name": "Alban Lafont",
+            "position": "GK",
+            "club": "Panathinaikos"
+          },
+          {
+            "name": "Bazoumana Touré",
+            "position": "FW",
+            "club": "TSG Hoffenheim"
+          },
+          {
+            "name": "Jean-Philippe Gbamin",
+            "position": "MF",
+            "club": "Metz"
+          },
+          {
+            "name": "Yan Diomande",
+            "position": "FW",
+            "club": "RB Leipzig"
+          }
+        ]
+      },
+      "Mozambique": {
+        "coach": "Chiquinho Conde",
+        "players": [
+          {
+            "name": "Ernan Siluane",
+            "position": "GK",
+            "club": "Black Bulls"
+          },
+          {
+            "name": "Nanani",
+            "position": "DF",
+            "club": "Songo"
+          },
+          {
+            "name": "Nené",
+            "position": "DF",
+            "club": "Black Bulls"
+          },
+          {
+            "name": "Fernando Chamboco",
+            "position": "DF",
+            "club": "Black Bulls"
+          },
+          {
+            "name": "Bruno Langa",
+            "position": "DF",
+            "club": "Pafos"
+          },
+          {
+            "name": "Manuel Kambala",
+            "position": "MF",
+            "club": "Polokwane City"
+          },
+          {
+            "name": "Domingues",
+            "position": "MF",
+            "club": "Songo"
+          },
+          {
+            "name": "Edmilson Dove",
+            "position": "DF",
+            "club": "Al-Quwa Al-Jawiya"
+          },
+          {
+            "name": "Faisal Bangal",
+            "position": "FW",
+            "club": "Mestre"
+          },
+          {
+            "name": "Geny Catamo",
+            "position": "FW",
+            "club": "Sporting CP"
+          },
+          {
+            "name": "João Bonde",
+            "position": "MF",
+            "club": "Ferroviário Beira"
+          },
+          {
+            "name": "Kimiss Zavala",
+            "position": "GK",
+            "club": "Marítimo"
+          },
+          {
+            "name": "Stanley Ratifo",
+            "position": "FW",
+            "club": "Chemie Leipzig"
+          },
+          {
+            "name": "Oscar Cherene",
+            "position": "DF",
+            "club": "Textáfrica"
+          },
+          {
+            "name": "Reinildo Mandava",
+            "position": "DF",
+            "club": "Sunderland"
+          },
+          {
+            "name": "Alfons Amade",
+            "position": "MF",
+            "club": "Dunfermline Athletic"
+          },
+          {
+            "name": "Mexer",
+            "position": "DF",
+            "club": "Ankara Keçiörengücü"
+          },
+          {
+            "name": "Gildo Vilanculos",
+            "position": "FW",
+            "club": "Tadamon Sour"
+          },
+          {
+            "name": "Witi",
+            "position": "FW",
+            "club": "Nacional"
+          },
+          {
+            "name": "Keyns Abdala",
+            "position": "MF",
+            "club": "Chaves"
+          },
+          {
+            "name": "Guima",
+            "position": "MF",
+            "club": "Zira"
+          },
+          {
+            "name": "Ivane Urrubal",
+            "position": "GK",
+            "club": "Songo"
+          },
+          {
+            "name": "Diogo Calila",
+            "position": "DF",
+            "club": "Santa Clara"
+          },
+          {
+            "name": "Melque Alexandre",
+            "position": "FW",
+            "club": "Songo"
+          },
+          {
+            "name": "Chamito",
+            "position": "FW",
+            "club": "Académico Viseu"
+          },
+          {
+            "name": "Ângelo Cantolo*",
+            "position": "FW",
+            "club": "Chingale"
+          },
+          {
+            "name": "Clésio*",
+            "position": "FW",
+            "club": "Black Bulls"
+          },
+          {
+            "name": "Shaquille*",
+            "position": "MF",
+            "club": "Sagrada Esperança"
+          }
+        ]
+      },
+      "Players by League Country": {
+        "coach": "",
+        "players": []
+      },
+      "Player representation by club": {
+        "coach": "",
+        "players": []
+      },
+      "Player representation by club confederation": {
+        "coach": "",
+        "players": []
+      }
+    }
+  },
+  "venues": [
+    {
+      "city": "Agadir",
+      "stadium": "Adrar Stadium",
+      "capacity": 45000,
+      "matches": "nan"
+    },
+    {
+      "city": "Casablanca",
+      "stadium": "Stade Mohammed V",
+      "capacity": 45000,
+      "matches": "nan"
+    },
+    {
+      "city": "Fez",
+      "stadium": "Fez Stadium",
+      "capacity": 45000,
+      "matches": "nan"
+    },
+    {
+      "city": "Marrakesh",
+      "stadium": "Marrakesh Stadium",
+      "capacity": 45000,
+      "matches": "nan"
+    },
+    {
+      "city": "Rabat",
+      "stadium": "Prince Moulay Abdellah Stadium",
+      "capacity": 69500,
+      "matches": "nan"
+    },
+    {
+      "city": "Rabat",
+      "stadium": "Moulay Hassan Stadium",
+      "capacity": 22000,
+      "matches": "nan"
+    },
+    {
+      "city": "Rabat",
+      "stadium": "Rabat Olympic Stadium",
+      "capacity": 21000,
+      "matches": "nan"
+    },
+    {
+      "city": "Rabat",
+      "stadium": "Al Medina Stadium",
+      "capacity": 18000,
+      "matches": "nan"
+    },
+    {
+      "city": "Tangier",
+      "stadium": "Tangier Grand Stadium",
+      "capacity": 75000,
+      "matches": "nan"
+    }
+  ],
+  "referees": [
+    {
+      "country": "Algeria",
+      "referee": "Mustapha Ghorbal",
+      "assistant_referees": [
+        "Mahmoud Ahmed Abouelregal  Jerson Emiliano Dos Santos"
+      ],
+      "matches_assigned": "Ivory Coast–Cameroon"
+    },
+    {
+      "country": "Algeria",
+      "referee": "Lahlou Benbraham",
+      "assistant_referees": [
+        "Abbes Akram Zerhouni  Adel Abane"
+      ],
+      "matches_assigned": "Senegal–DR Congo"
+    },
+    {
+      "country": "Benin",
+      "referee": "Djindo Louis Houngnandande",
+      "assistant_referees": [
+        "Aymar Ulrich Eric Ayimavo  Mohammed Abdallah Ibrahim"
+      ],
+      "matches_assigned": "Uganda–Nigeria"
+    },
+    {
+      "country": "Burundi",
+      "referee": "Pacifique Ndabihawenimana",
+      "assistant_referees": [
+        "Djibril Camara   Nouha Bangoura"
+      ],
+      "matches_assigned": "Egypt–South Africa"
+    },
+    {
+      "country": "Cameroon",
+      "referee": "Abdou Abdel Mefire",
+      "assistant_referees": [
+        "Moutsassi Styven Danek  Yanes Malondi Chani"
+      ],
+      "matches_assigned": "Morocco–Mali"
+    },
+    {
+      "country": "Chad",
+      "referee": "Mahamat Alhadji Allaou",
+      "assistant_referees": [
+        "Elvis Guy Noupue Nguegoue  Amos Abeigne Ndong"
+      ],
+      "matches_assigned": "Comoros–Mali"
+    },
+    {
+      "country": "Congo",
+      "referee": "Messie Jessie Oved Nkounkou Mvoutou",
+      "assistant_referees": [
+        "Moutsassi Styven Danek Yanes Malondi Chani"
+      ],
+      "matches_assigned": "Equatorial Guinea–Sudan"
+    },
+    {
+      "country": "DR Congo",
+      "referee": "Jean-Jacques Ndala Ngambo",
+      "assistant_referees": [
+        "Guylain Nguila Gradel Mbilizi Mwanya"
+      ],
+      "matches_assigned": "Morocco–Comoros  Tanzania–Tunisia"
+    },
+    {
+      "country": "Egypt",
+      "referee": "Mohamed Mansour Maarouf",
+      "assistant_referees": [
+        "Khalil Hassani  Ahmed Hossameldin Taha"
+      ],
+      "matches_assigned": "Burkina Faso–Equatorial Guinea"
+    },
+    {
+      "country": "Egypt",
+      "referee": "Amin Mohamed Omar",
+      "assistant_referees": [
+        "Mahmoud Ahmed Abouelregal  Adel Abane"
+      ],
+      "matches_assigned": "Cameroon–Gabon"
+    },
+    {
+      "country": "Gabon",
+      "referee": "Pierre Ghislain Atcho",
+      "assistant_referees": [
+        "Elvis Guy Noupue Nguegoue  Carine Atezambong Fomo"
+      ],
+      "matches_assigned": "Algeria–Sudan"
+    },
+    {
+      "country": "Gabon",
+      "referee": "Tanguy Patrice Mebiame",
+      "assistant_referees": [
+        "Boris Marlaise Ditsoga  Amos Abeigne Ndong"
+      ],
+      "matches_assigned": "Tunisia–Uganda"
+    },
+    {
+      "country": "Ghana",
+      "referee": "Daniel Nii Ayi Laryea",
+      "assistant_referees": [
+        "Zakhele Siwela  Souru Phatsoane"
+      ],
+      "matches_assigned": "Algeria–Burkina Faso"
+    },
+    {
+      "country": "Ivory Coast",
+      "referee": "Clement Franklin Kpan",
+      "assistant_referees": [
+        "Dimbiniaina Andriatianarivelo   Jonathan Koffi Ahonto"
+      ],
+      "matches_assigned": "Angola–Egypt"
+    },
+    {
+      "country": "Kenya",
+      "referee": "Peter Waweru Kamaku",
+      "assistant_referees": [
+        "Gilbert Kipkoech Cheruiyot Stephen Elezar Onyango Yiembe"
+      ],
+      "matches_assigned": "Angola–Zimbabwe"
+    },
+    {
+      "country": "Mali",
+      "referee": "Boubou Traoré",
+      "assistant_referees": [
+        "Modibo Samake  Jonathan Koffi Ahonto"
+      ],
+      "matches_assigned": "Nigeria–Tunisia"
+    },
+    {
+      "country": "Mauritania",
+      "referee": "Abdel Aziz Bouh",
+      "assistant_referees": [
+        "Modibo Samake   Jonathan Koffi Ahonto"
+      ],
+      "matches_assigned": "Senegal–Botswana"
+    },
+    {
+      "country": "Mauritania",
+      "referee": "Dahane Beida",
+      "assistant_referees": [
+        "Jerson Emiliano Dos Santos   Ivanildo Meirelles De Sanches Lopes"
+      ],
+      "matches_assigned": "Nigeria–Tanzania"
+    },
+    {
+      "country": "Mauritius",
+      "referee": "Ahmed Imtehaz Heerallal",
+      "assistant_referees": [
+        "Arsenio Chadreque Maringule   Abelmiro dos Reis Monte Negro"
+      ],
+      "matches_assigned": "Zambia–Comoros"
+    },
+    {
+      "country": "Mauritius",
+      "referee": "Ahmed Imtehaz Heerallal",
+      "assistant_referees": [
+        "Arsenio Chadreque Maringule   Ivanildo Meirelles De Sanches Lopes"
+      ],
+      "matches_assigned": "Botswana–DR Congo"
+    },
+    {
+      "country": "Morocco",
+      "referee": "Jalal Jayed",
+      "assistant_referees": [
+        "Zakaria Brinsi  Mostafa Akarkad"
+      ],
+      "matches_assigned": "Uganda–Tanzania"
+    },
+    {
+      "country": "Morocco",
+      "referee": "Mustapha Kechchaf",
+      "assistant_referees": [
+        "Moutsassi Styven Danek  Yanes Malondi Chani"
+      ],
+      "matches_assigned": "Zimbabwe–South Africa"
+    },
+    {
+      "country": "Rwanda",
+      "referee": "Samuel Uwikunda",
+      "assistant_referees": [
+        "Aymar Ulrich Eric Ayimavo  Dimbiniaina Andriatianarivelo"
+      ],
+      "matches_assigned": "Ivory Coast–Mozambique"
+    },
+    {
+      "country": "Rwanda",
+      "referee": "Samuel Uwikunda",
+      "assistant_referees": [
+        "Gilbert Kipkoech Cheruiyot  Stephen Elezar Onyango Yiembe"
+      ],
+      "matches_assigned": "Benin–Senegal"
+    },
+    {
+      "country": "Senegal",
+      "referee": "Issa Sy",
+      "assistant_referees": [
+        "Djibril Camara  Nouha Bangoura"
+      ],
+      "matches_assigned": "Egypt–Zimbabwe  Zambia–Morocco"
+    },
+    {
+      "country": "Somalia",
+      "referee": "Omar Abdulkadir Artan",
+      "assistant_referees": [
+        "Liban Abdoulrazack Ahmed   Abelmiro dos Reis Monte Negro"
+      ],
+      "matches_assigned": "Mali–Zambia"
+    },
+    {
+      "country": "South Africa",
+      "referee": "Abongile Tom",
+      "assistant_referees": [
+        "Zakhele Siwela  Souru Phatsoane"
+      ],
+      "matches_assigned": "DR Congo–Benin"
+    },
+    {
+      "country": "Sudan",
+      "referee": "Mahmood Ali Mahmood Ismail",
+      "assistant_referees": [
+        "Mohammed Abdallah Ibrahim  Stephen Elezar Onyango Yiembe"
+      ],
+      "matches_assigned": "South Africa–Angola"
+    },
+    {
+      "country": "Tunisia",
+      "referee": "Mehrez Melki",
+      "assistant_referees": [
+        "Khalil Hassani   Ahmed Hossameldin Taha"
+      ],
+      "matches_assigned": "Gabon–Mozambique"
+    },
+    {
+      "country": "Uganda",
+      "referee": "Shamirah Nabadda",
+      "assistant_referees": [
+        "Diana Chikotesha   Carine Atezambong Fomo"
+      ],
+      "matches_assigned": "Benin–Botswana"
+    }
+  ],
+  "qualified_teams": [
+    {
+      "Team": "Morocco",
+      "Qualified as": "Hosts / Group B winners",
+      "Qualified on": "27 September 2023",
+      "Previous appearances in Africa Cup of Nations1": "19 (1972, 1976, 1978, 1980, 1986, 1988, 1992, 1998, 2000, 2002, 2004, 2006, 2008, 2012, 2013, 2017, 2019, 2021, 2023)"
+    },
+    {
+      "Team": "Burkina Faso",
+      "Qualified as": "Group L runners-up",
+      "Qualified on": "13 October 2024",
+      "Previous appearances in Africa Cup of Nations1": "13 (1978, 1996, 1998, 2000, 2002, 2004, 2010, 2012, 2013, 2015, 2017, 2021, 2023)"
+    },
+    {
+      "Team": "Cameroon",
+      "Qualified as": "Group J winners",
+      "Qualified on": "14 October 2024",
+      "Previous appearances in Africa Cup of Nations1": "21 (1970, 1972, 1982, 1984, 1986, 1988, 1990, 1992, 1996, 1998, 2000, 2002, 2004, 2006, 2008, 2010, 2015, 2017, 2019, 2021, 2023)"
+    },
+    {
+      "Team": "Algeria",
+      "Qualified as": "Group E winners",
+      "Qualified on": "14 October 2024",
+      "Previous appearances in Africa Cup of Nations1": "20 (1968, 1980, 1982, 1984, 1986, 1988, 1990, 1992, 1996, 1998, 2000, 2002, 2004, 2010, 2013, 2015, 2017, 2019, 2021, 2023)"
+    },
+    {
+      "Team": "DR Congo",
+      "Qualified as": "Group H winners",
+      "Qualified on": "15 October 2024",
+      "Previous appearances in Africa Cup of Nations1": "20 (1965, 1968, 1970, 1972, 1974, 1976, 1988, 1992, 1994, 1996, 1998, 2000, 2002, 2004, 2006, 2013, 2015, 2017, 2019, 2023)"
+    },
+    {
+      "Team": "Senegal",
+      "Qualified as": "Group L winners",
+      "Qualified on": "15 October 2024",
+      "Previous appearances in Africa Cup of Nations1": "17 (1965, 1968, 1986, 1990, 1992, 1994, 2000, 2002, 2004, 2006, 2008, 2012, 2015, 2017, 2019, 2021, 2023)"
+    },
+    {
+      "Team": "Egypt",
+      "Qualified as": "Group C winners",
+      "Qualified on": "15 October 2024",
+      "Previous appearances in Africa Cup of Nations1": "26 (1957, 1959, 1962, 1963, 1970, 1974, 1976, 1980, 1984, 1986, 1988, 1990, 1992, 1994, 1996, 1998, 2000, 2002, 2004, 2006, 2008, 2010, 2017, 2019, 2021, 2023)"
+    },
+    {
+      "Team": "Angola",
+      "Qualified as": "Group F winners",
+      "Qualified on": "15 October 2024",
+      "Previous appearances in Africa Cup of Nations1": "9 (1996, 1998, 2006, 2008, 2010, 2012, 2013, 2019, 2023)"
+    },
+    {
+      "Team": "Equatorial Guinea",
+      "Qualified as": "Group E runners-up",
+      "Qualified on": "13 November 2024",
+      "Previous appearances in Africa Cup of Nations1": "4 (2012, 2015, 2021, 2023)"
+    },
+    {
+      "Team": "Ivory Coast",
+      "Qualified as": "Group G runners-up",
+      "Qualified on": "13 November 2024",
+      "Previous appearances in Africa Cup of Nations1": "25 (1965, 1968, 1970, 1974, 1980, 1984, 1986, 1988, 1990, 1992, 1994, 1996, 1998, 2000, 2002, 2006, 2008, 2010, 2012, 2013, 2015, 2017, 2019, 2021, 2023)"
+    },
+    {
+      "Team": "Gabon",
+      "Qualified as": "Group B runners-up",
+      "Qualified on": "14 November 2024",
+      "Previous appearances in Africa Cup of Nations1": "8 (1994, 1996, 2000, 2010, 2012, 2015, 2017, 2021)"
+    },
+    {
+      "Team": "Uganda",
+      "Qualified as": "Group K runners-up",
+      "Qualified on": "14 November 2024",
+      "Previous appearances in Africa Cup of Nations1": "7 (1962, 1968, 1974, 1976, 1978, 2017, 2019)"
+    },
+    {
+      "Team": "South Africa",
+      "Qualified as": "Group K winners",
+      "Qualified on": "14 November 2024",
+      "Previous appearances in Africa Cup of Nations1": "11 (1996, 1998, 2000, 2002, 2004, 2006, 2008, 2013, 2015, 2019, 2023)"
+    },
+    {
+      "Team": "Tunisia",
+      "Qualified as": "Group A runners-up",
+      "Qualified on": "14 November 2024",
+      "Previous appearances in Africa Cup of Nations1": "21 (1962, 1963, 1965, 1978, 1982, 1994, 1996, 1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2013, 2015, 2017, 2019, 2021, 2023)"
+    },
+    {
+      "Team": "Nigeria",
+      "Qualified as": "Group D winners",
+      "Qualified on": "14 November 2024",
+      "Previous appearances in Africa Cup of Nations1": "20 (1963, 1976, 1978, 1980, 1982, 1984, 1988, 1990, 1992, 1994, 2000, 2002, 2004, 2006, 2008, 2010, 2013, 2019, 2021, 2023)"
+    },
+    {
+      "Team": "Mali",
+      "Qualified as": "Group I winners",
+      "Qualified on": "15 November 2024",
+      "Previous appearances in Africa Cup of Nations1": "13 (1972, 1994, 2002, 2004, 2008, 2010, 2012, 2013, 2015, 2017, 2019, 2021, 2023)"
+    },
+    {
+      "Team": "Zambia",
+      "Qualified as": "Group G winners",
+      "Qualified on": "15 November 2024",
+      "Previous appearances in Africa Cup of Nations1": "18 (1974, 1978, 1982, 1986, 1990, 1992, 1994, 1996, 1998, 2000, 2002, 2006, 2008, 2010, 2012, 2013, 2015, 2023)"
+    },
+    {
+      "Team": "Zimbabwe",
+      "Qualified as": "Group J runners-up",
+      "Qualified on": "15 November 2024",
+      "Previous appearances in Africa Cup of Nations1": "5 (2004, 2006, 2017, 2019, 2021)"
+    },
+    {
+      "Team": "Comoros",
+      "Qualified as": "Group A winners",
+      "Qualified on": "15 November 2024",
+      "Previous appearances in Africa Cup of Nations1": "1 (2021)"
+    },
+    {
+      "Team": "Sudan",
+      "Qualified as": "Group F runners-up",
+      "Qualified on": "18 November 2024",
+      "Previous appearances in Africa Cup of Nations1": "9 (1957, 1959, 1963, 1970, 1972, 1976, 2008, 2012, 2021)"
+    },
+    {
+      "Team": "Benin",
+      "Qualified as": "Group D runners-up",
+      "Qualified on": "18 November 2024",
+      "Previous appearances in Africa Cup of Nations1": "4 (2004, 2008, 2010, 2019)"
+    },
+    {
+      "Team": "Tanzania",
+      "Qualified as": "Group H runners-up",
+      "Qualified on": "19 November 2024",
+      "Previous appearances in Africa Cup of Nations1": "3 (1980, 2019, 2023)"
+    },
+    {
+      "Team": "Botswana",
+      "Qualified as": "Group C runners-up",
+      "Qualified on": "19 November 2024",
+      "Previous appearances in Africa Cup of Nations1": "1 (2012)"
+    },
+    {
+      "Team": "Mozambique",
+      "Qualified as": "Group I runners-up",
+      "Qualified on": "19 November 2024",
+      "Previous appearances in Africa Cup of Nations1": "5 (1986, 1996, 1998, 2010, 2023)"
+    }
+  ],
+  "qualification_goalscorers": [],
+  "tournament_goalscorers": []
+}
